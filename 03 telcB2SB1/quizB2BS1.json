@@ -1,0 +1,582 @@
+{
+    "sections": [
+        {
+            "Page": 1,
+            "title": "Deutschkurs Anmeldung",
+            "paragraph": "Sehr geehrte Frau Szabo,\nvielen Dank für Ihr Interesse (21) unseren Deutschkursen. Anbei erhalten Sie das angeforderte Anmeldeformular, das Sie bitte ausgefüllt an uns zurückschicken.\nMit der Anmeldung überweisen Sie bitte eine Anzahlung (22) von € 200,- auf unser Konto. Die Kontoverbindung finden Sie unten auf dem Anmeldeformular. (23) besserer Einschätzung Ihrer Vorkenntnisse haben wir einen Einstufungstest beigelegt. Wenn Sie die Tetsbögen ausfüllen und mit der Anmeldung an uns zurücksenden, helfen Sie uns bei der Kursplanung. Ein mündlicher Test wird sich am ersten Unterrichtstag in unserer Schule (24). Damit sind wir in der Lage, den für Sie angemessenen Kurs auszuwählen. Außerdem finden Sie in den Unterlagen einen Fragenbogen (25) Ihrer Freizeitinteressen. Wir werden uns bemühen, Ihnen den Aufenthalt in Leipzig so angenehm (26) möglich zu gestalten. Schließlich füllen Sie bitte das grüne Unterkunftblatt aus. Sie können wählen zwischen einem 3-Sterne-Hotel, (27) Privatunterkunft in einer deutschen Gastfamilie oder der Unterkunft in einem Studentenwohnheim. Letzteres ist nur in den Semesterferien der Universität - in der Regel vom 15.2. bis 15.4. und vom 15.7. bis 15.10. - möglich. Geben Sie bitte auch Ihre Verpflegungswünsche - Frühstück oder Halbpension - an. Beachten Sie aber, dass im Studentenwohnheim nur Selbstverpflegung möglich ist. (28) Ihre Anmeldung bei uns eingegangen ist, erhalten Sie eine Anmeldebestätigung und einen Stadtplan mit Wegbeschreibung, (29) Sie den Weg zu uns ohne Umstände finden. Die Adresse Ihrer Unterkunft erhalten Sie ca. 2 Wochen vor Kursbeginn. (30) weitere Fragen steht Ihnen unser Sekretariat gerne montags bis freitags von 8 bis 18 Uhr zur Verfügung.\nMit freundlichen Grüßen\nGerhard Dietz\nDirektor",
+            "questions": {
+                "21": { "optionA": "an", "optionB": "bei", "optionC": "in", "correctAnswer": "A" },
+                "22": { "optionA": "in Betrag", "optionB": "in Höhe", "optionC": "in Summe", "correctAnswer": "B" },
+                "23": { "optionA": "für", "optionB": "zur", "optionC": "Zwecks", "correctAnswer": "C" },
+                "24": { "optionA": "angeschlossen", "optionB": "anschließen", "optionC": "anschließen an", "correctAnswer": "B" },
+                "25": { "optionA": "anlässlich", "optionB": "bezüglich", "optionC": "mittels", "correctAnswer": "B" },
+                "26": { "optionA": "als", "optionB": "wenn", "optionC": "wie", "correctAnswer": "C" },
+                "27": { "optionA": "ein", "optionB": "einem", "optionC": "einer", "correctAnswer": "C" },
+                "28": { "optionA": "Sobald", "optionB": "Sofort", "optionC": "Sooft", "correctAnswer": "A" },
+                "29": { "optionA": "dafür", "optionB": "damit", "optionC": "dazu", "correctAnswer": "B" },
+                "30": { "optionA": "bei", "optionB": "Für", "optionC": "Zu", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 2,
+            "title": "Alternative Deutschkurs Anmeldung",
+            "paragraph": "Sehr geehrte Frau Szabo,\nvielen Dank für Ihr Interesse an unseren Deutschkursen. (21) erhalten Sie das angeforderte Anmeldeformular, das Sie bitte ausgefüllt an uns zurückschicken. Mit der Anmeldung überweisen Sie bitte eine Anzahlung (22) von € 200,- auf unser Konto. Die Kontoverbindung finden Sie unten auf dem Anmeldeformular (23) genaueren Einschätzung Ihrer Vorkenntnisse haben wir einen Einstufungstest beigelegt. Wenn Sie die Tetsbögen ausfüllen und mit der Anmeldung an uns zurücksenden, helfen Sie uns bei der Kursplanung. Ein mündlicher Test wird sich am ersten Unterrichtstag in unserer Schule auch ein mündlicher Test (24). Damit sind wir in der Lage, den für Sie angemessenen Kurs auszuwählen. Außerdem finden Sie in den Unterlagen einen Fragebogen (25) Ihrer Freizeitinteressen, denn wir werden uns bemühen, Ihnen Aufenthalt in Leipzig (26) angenehm zu gestalten. Schließlich füllen Sie bitte das grüne Unterkunftblatt aus. Sie können wählen zwischen einem 3-Sterne-Hotel, (27) Privatunterkunft in einer deutschen Gastfamilie oder der Unterkunft in einem Studentenwohnheim. Letzteres ist nur in den Semesterferien der Universität - in der Regel vom 15.2. bis 15.4. und vom 15.7. bis 15.10. - möglich. Geben Sie bitte auch Ihre Verpflegungswünsche - Frühstück oder Halbpension - an. Beachten Sie aber, dass im Studentenwohnheim nur Selbstverpflegung möglich ist. (28) Ihre Anmeldung bei uns eingegangen ist, erhalten Sie eine Anmeldebestätigung und einen Stadtplan mit Wegbeschreibung.(29) Sie den Weg zu uns ohne Umstände finden. Die Adresse ihrer Unterkunft erhalten Sie ca. 2 Wochen vor Kursbeginn (30) weitere Fragen steht Ihnen unser Sekretariat gerne montags bis freitags von 8 bis 18 Uhr zur Verfügung.\nMit freundlichen Grüßen Gerhard Dietz Direktor",
+            "questions": {
+                "21": { "optionA": "anbei", "optionB": "dabei", "optionC": "vorbei", "correctAnswer": "A" },
+                "22": { "optionA": "in betrag", "optionB": "in Höhe", "optionC": "in summe", "correctAnswer": "B" },
+                "23": { "optionA": "für", "optionB": "zur", "optionC": "zwek", "correctAnswer": "B" },
+                "24": { "optionA": "durchführen", "optionB": "stattfinden", "optionC": "veranstalten", "correctAnswer": "B" },
+                "25": { "optionA": "anlässlich", "optionB": "bezüglich", "optionC": "mittels", "correctAnswer": "B" },
+                "26": { "optionA": "möglich", "optionB": "möglichrweise", "optionC": "möglichst", "correctAnswer": "C" },
+                "27": { "optionA": "ein", "optionB": "einem", "optionC": "einer", "correctAnswer": "C" },
+                "28": { "optionA": "Sobald", "optionB": "Sofort", "optionC": "Sooft", "correctAnswer": "A" },
+                "29": { "optionA": "dafür", "optionB": "damit", "optionC": "dazu", "correctAnswer": "B" },
+                "30": { "optionA": "bei", "optionB": "Für", "optionC": "Zu", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 3,
+            "title": "Sommerreiseplanung mit Igor",
+            "paragraph": "Lieber Igor\nvielen Dank für deine Nachricht, (21) die ich mich sehr gefreut habe. Es ist echt eine tolle Idee im Sommer gemeinsam zu verreisen! Aber möchtest du wirklich mit dem Auto fahren? Ich würde lieber die Bahn nehmen, denn das ist umweltfreundlicher und (22) noch billiger\nMomentan bin ich nämlich mal wieder etwas knapp bei Kasse.\nWir könnten doch eine Interrail-Tour machen. Mit einem Global Pass können wir in 30 Europäischen Ländern Zug (23) und zwar wann und wohin auch immer- allerdings nicht bei uns in Deutschland. Hier müssen wir extra zahlen. Aber wir haben es ja von mir aus nicht allzu weit bis zur Grenze. (24) wir noch keine 26 Jahre alt sind, können wir den Pass ausgesprochen günstig bekommen. Der Preis hängt (25) ab, wie lange wir unterwegs sein wollen. Wenn du lieber nur ein einziges Land bereisen möchtest, schlage ich vor, nach Frankreich zu fahren, Dann nämlich würden wir für ein Interrail-Ticket sogar noch weniger zahlen. Ich habe auch schon mil meiner Tante in Marseilles (26) und sie hat gleich vorgeschlagen, (27) wir einige Tage bei ihr verbringen. Meine Cousins Jérôme und Matthieu, die in Paris studieren, haben\nSemesterferien und werden auch dort sein. Die beiden würden (28) freuen, mit uns um die Häuser /zu ziehen, und könnten uns sicherlich die angesagtesten Clubs der Stadt zeigen.\nWegen (29) Sprachkenntnisse brauchst du dir nicht den Kopf zu zerbrechen, denn die beiden sprechen ziemlich gut Deutsch. Was hältst du davon? Hast du noch andere Vorschläge? Ich freue mich (30) schon sehr auf unsere gemeinsame Reise.\nBis bald\nThomas",
+            "questions": {
+                "21": { "optionA": "mit", "optionB": "über", "optionC": "wegen", "correctAnswer": "A" },
+                "22": { "optionA": "außerdem", "optionB": "sonst", "optionC": "weiterhin", "correctAnswer": "A" },
+                "23": { "optionA": "fahren", "optionB": "kommen", "optionC": "nehmen", "correctAnswer": "C" },
+                "24": { "optionA": "da", "optionB": "darum", "optionC": "deshalb", "correctAnswer": "A" },
+                "25": { "optionA": "dadurch", "optionB": "damit", "optionC": "davon", "correctAnswer": "C" },
+                "26": { "optionA": "besprochen", "optionB": "gesprochen", "optionC": "versprochen", "correctAnswer": "B" },
+                "27": { "optionA": "als", "optionB": "dass", "optionC": "wenn", "correctAnswer": "B" },
+                "28": { "optionA": "euch", "optionB": "sich", "optionC": "uns", "correctAnswer": "C" },
+                "29": { "optionA": "das", "optionB": "der", "optionC": "die", "correctAnswer": "C" },
+                "30": { "optionA": "bestenfalls", "optionB": "jedenfalls", "optionC": "keinesfalls", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 4,
+            "title": "Wochenendbericht an Maria",
+            "paragraph": "Hallo Maria\nBevor wieder der Arbeitsalltag beginnt, schicke ich dir (21) rasch einige Zeilen um dir von unserem Wochenende zu erzählen. Es ist so schade, dass du (22) deiner Grippe nicht dabei sein konntest! Wir haben dich alle sehr vermisst.\n(23) auf Mikro sind Alle mit dem Zug angereist und wir haben uns schon am Bahnhof getroffen. Nachdem wir unser Gepäck abgestellt (24). haben wir gleich einen Rrundgang durch den ort gemacht. Lilo wusste viel Interessantes zu erzählen. Sie lebt ja schon einige Jahre dort und hat sich (25) ausgezeichnete Fremdenführerin erwiesen. Besonders beeindruckt hat uns der Wunderschöne Park, in dem gerade die Rrhododendren blühten. Eine Wahre Pracht. Das hätte dir auch gefallen! später sind wir zum Amseisee gewandert, den man in kurzer Zeit vom ort aus erreicht. Dort haben wir eine Bootsfahrt über den See gemacht. vom Boot aus hat man einen Wunderbaren Blick auf die beeindruckende Felsenlandschaft. Am Abend stand dann die\nFelsentbühne (26) dem Programm. Die Wanderung am nächsten Tag war (27) schön anstrengend, aber Wunderbar. (28) alle ziemlich erschöpft waren, haben wir nach dem Abendessen noch lange zusammen gegessen. Und über alte Zeiten geplaudert. Am nächsten morgen nach unserem gemeinsam früschtück waren uns einig, dass wir bald wieder zusammen einen Ausflug machen(29). Und nächste Mal musst du unbedingt dabei sein. Im Anhang schicke ich dir einige. Wie du siehst, war unser treffen wirklich lustig !. Ich hoffe, dass es dir (30) schon wieder besser geht.\nLiebe Grüße von uns allem\nCem",
+            "questions": {
+                "21": { "optionA": "momentan", "optionB": "noch", "optionC": "weiterhin", "correctAnswer": "A" },
+                "22": { "optionA": "deswegen", "optionB": "wegen", "optionC": "weil", "correctAnswer": "B" },
+                "23": { "optionA": "abgesehen", "optionB": "außer", "optionC": "bis", "correctAnswer": "B" },
+                "24": { "optionA": "haben", "optionB": "hatten", "optionC": "hätten", "correctAnswer": "B" },
+                "25": { "optionA": "als", "optionB": "für", "optionC": "zur", "correctAnswer": "A" },
+                "26": { "optionA": "auf", "optionB": "in", "optionC": "zu", "correctAnswer": "B" },
+                "27": { "optionA": "absolut", "optionB": "ganz", "optionC": "vollkommen", "correctAnswer": "B" },
+                "28": { "optionA": "obwohl", "optionB": "trotzdem", "optionC": "ungeachtet", "correctAnswer": "A" },
+                "29": { "optionA": "durften", "optionB": "konnten", "optionC": "sollten", "correctAnswer": "B" },
+                "30": { "optionA": "inzwischen", "optionB": "während", "optionC": "zwischen", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 5,
+            "title": "Neues Leben in Frankfurt",
+            "paragraph": "Liebe Ida,\nnun ist es schon drei Monate her, dass ich nach Frankfurt gezogen bin. Es hat ziemlich lange gedauert, bis ich mich hier eingelebt habe. Am Anfang hatte ich mich auch gar nicht (21) die neue Stelle und das Leben in der Stadt gefreut. Dass ich mich für meine neue Arbeitsstelle umgezogen war, hatte mich eine Zeitlang sogar ein bisschen geärgert. Ich (22) ja auch täglich mit dem Zug fahren können, statt mir eine Wohnung in der Nähe der Firma zu suchen. Zuerst habe ich (23) in\nmeiner neuen Wohnung auch gar nicht richtig wohlgefühlt. Aber nachdem ich meine Umzugskartons (24), konnte ich endlich die Stadt richtig erkunden.\nSeit einiger Zeit gefällt es mir in Frankfurt nun richtig gut. Das liegt vor allem (25) dass ich eine neue Freundin gefunden habe. Annabelle wohnt in derselben Straße wie ich und wir haben uns auf einem Flohmarkt in unserem Stadtviertel kennengelernt. Sie hat dort ihre alten Bücher verkauft. Als wir (26) ins Gespräch kamen, haben wir festgestellt, dass wir ähnliche Interessen und Hobbys teilen: Sie mag ebenfalls ausgefallene Mode und moderne Kunst und wir gehen nun regelmäßig zusammen ins Schwimmbad.\nMein Leben sieht nun also ganz anders aus (27) noch vor drei Monaten. Mit meiner neuen Stelle bin ich auch zufrieden, (28) ich oft Überstunden machen muss. Dafür herrscht jedoch ein angenehmes Betriebsklima (29) uns in der Abteilung. Jetzt habe ich viel von mir erzählt, aber Dich noch gar nicht gefragt, wie es Dir (30) geht. Gibt es etwas Neues bei Dir? Ich freue mich auf Deine nächste Mail!\nHerzliche Grüße\nDeine Emilia",
+            "questions": {
+                "21": { "optionA": "an", "optionB": "auf", "optionC": "wegen", "correctAnswer": "B" },
+                "22": { "optionA": "habe", "optionB": "hätte", "optionC": "würde", "correctAnswer": "A" },
+                "23": { "optionA": "dich", "optionB": "uns", "optionC": "mich", "correctAnswer": "C" },
+                "24": { "optionA": "ausgepackt habe", "optionB": "ausgepackt hatte", "optionC": "auspakte", "correctAnswer": "A" },
+                "25": { "optionA": "daran", "optionB": "darauf", "optionC": "darin", "correctAnswer": "A" },
+                "26": { "optionA": "einander", "optionB": "gegeneinander", "optionC": "miteinander", "correctAnswer": "A" },
+                "27": { "optionA": "als", "optionB": "denn", "optionC": "wenn", "correctAnswer": "A" },
+                "28": { "optionA": "obwohl", "optionB": "trotzdem", "optionC": "während", "correctAnswer": "A" },
+                "29": { "optionA": "bei", "optionB": "mit", "optionC": "zu", "correctAnswer": "B" },
+                "30": { "optionA": "eigentlich", "optionB": "hoffentlich", "optionC": "sicherlich", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 6,
+            "title": "Sommerjobsuche in der Tourismusbranche",
+            "paragraph": "Liebe Andrea\nvielen Dank für deine Nachricht. Entschuldige bitte, dass ich (21) jetzt antworte, aber ich konnte gestern meinen Laptop nicht verwenden. Ich hatte ihn zu Peter gebracht, damit er mir ein neues Betriebssystem installiert. Jetzt funktioniert alles (22), so dass ich endlich meine Fotos sortieren konnte. Peter und ich haben uns die Fotos von deinem letzten Besuch hier angesehen. Es war so lustig, du musst bald wieder mal (23) uns kommen. Nun zu deiner Nachricht: Du suchst also einen Sommerjob im Bereich Touristik und wolltest wissen, ob ich einen Tipp für dich habe. Ich habe mich hier ein wenig umgehört, (24) du bist ziemlich spät dran mit deiner Suche. Nur das Hotel \"Seeblick\" sucht noch jemanden für die Rezeption. Man braucht keine (25) Berufserfahrung; nur Englisch ist zwingende Voraussetzung, eine (26) Fremdsprache wäre noch besser. Das wäre für Juli und August, fünf Tage in der Woche. Du musst dich allerdings sehr bald (27), am besten noch heute. Die Kontaktperson findest du auf der Webseite des Hotels. (28) kenne ich die Hotelbesitzer nicht persönlich, sonst hätte ich mich natürlich sofort für dich eingesetzt\nIch werde (29) wieder im Kinder-Feriencamp arbeiten. Eigentlich wollte ich dieses Jahr ins Ausland, aber dann habe ich mich doch (30), hier zu bleiben. Meine Mutter hat sich noch nicht richtig von ihrer Operation erholt, und ich lasse sie ungern allein. Also bewirb dich gleich - es wäre toll, wenn wir uns im Sommer viel sehen könnten. Falls es nicht klappt, hoffe ich doch, dass du uns bald besuchen kommst\nIn der Zwischenzeit alles Liebe\nSophia",
+            "questions": {
+                "21": { "optionA": "erst", "optionB": "gleich", "optionC": "zuerst", "correctAnswer": "A" },
+                "22": { "optionA": "am besten", "optionB": "bestenfalls", "optionC": "bestens", "correctAnswer": "C" },
+                "23": { "optionA": "bei", "optionB": "mit", "optionC": "zu", "correctAnswer": "C" },
+                "24": { "optionA": "aber", "optionB": "denn", "optionC": "oder", "correctAnswer": "A" },
+                "25": { "optionA": "besondere", "optionB": "geringe", "optionC": "gute", "correctAnswer": "B" },
+                "26": { "optionA": "künftige", "optionB": "nächste", "optionC": "weitere", "correctAnswer": "C" },
+                "27": { "optionA": "anwerben", "optionB": "bewerben", "optionC": "umwerben", "correctAnswer": "B" },
+                "28": { "optionA": "Bedauerlich", "optionB": "Leider", "optionC": "schade", "correctAnswer": "B" },
+                "29": { "optionA": "deshalb", "optionB": "trotzdem", "optionC": "übrigens", "correctAnswer": "C" },
+                "30": { "optionA": "ausgemacht", "optionB": "beschlossen", "optionC": "entschieden", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 7,
+            "title": "Alternative Sommerjobsuche",
+            "paragraph": "Liebe Andrea,\nvielen Dank für deine Nachricht. Entschuldige bitte, dass ich (21) jetzt antworte, aber ich konnte gestern meinen Laptop nicht verwenden. Ich hatte ihn zu Peter gebracht, damit er mir ein neues Betriebssystem installiert. Jetzt funktioniert alles (22), so dass ich endlich meine Fotos sortieren konnte. Peter und ich haben uns die Fotos von deinem letzten Besuch hier angesehen. Es war so lustig, du musst bald wieder mal (23) uns kommen.\nNun zu deiner Nachricht: Du suchst also einen Sommerjob im Bereich Touristik und wolltest wissen, ob ich einen Tipp für dich habe. Ich habe mich hier ein wenig umgehört, aber du bist (24) spät dran mit deiner Suche. Nur das Hotel \"Seeblick\" sucht noch jemanden für die Rezeption. Man braucht keine (25) Berufserfahrung; nur Englisch ist zwingende Voraussetzung, eine (26) Fremdsprache wäre noch besser. Das wäre für Juli und August, fünf Tage in der Woche. Du musst dich allerdings sehr bald (27), am besten noch heute. Die Kontaktperson findest du auf der Webseite des Hotels. leider kenne ich die Hotelbesitzer nicht persönlich, (28) hätte ich mich natürlich sofort für dich eingesetzt.\nIch werde (29) wieder im Kinder-Feriencamp arbeiten. Eigentlich wollte ich dieses Jahr ins Ausland, aber dann habe ich mich doch (30), hier zu bleiben. Meine Mutter hat sich noch nicht richtig von ihrer Operation erholt, und ich lasse sie ungern allein.\nAlso bewirb dich gleich - es wäre toll, wenn wir uns im Sommer viel sehen könnten. Falls es nicht klappt, hoffe ich doch, dass du uns bald besuchen kommst!\nIn der Zwischenzeit alles Liebe\nSophia",
+            "questions": {
+                "21": { "optionA": "erst", "optionB": "gleich", "optionC": "zuerst", "correctAnswer": "A" },
+                "22": { "optionA": "am besten", "optionB": "bestenfalls", "optionC": "bestens", "correctAnswer": "C" },
+                "23": { "optionA": "bei", "optionB": "mit", "optionC": "zu", "correctAnswer": "C" },
+                "24": { "optionA": "fast", "optionB": "ungefähr", "optionC": "ziemlich", "correctAnswer": "A" },
+                "25": { "optionA": "besondere", "optionB": "geringe", "optionC": "gute", "correctAnswer": "B" },
+                "26": { "optionA": "künftige", "optionB": "nächste", "optionC": "weitere", "correctAnswer": "C" },
+                "27": { "optionA": "anwerben", "optionB": "bewerben", "optionC": "umwerben", "correctAnswer": "B" },
+                "28": { "optionA": "außerdem", "optionB": "damals", "optionC": "sonst", "correctAnswer": "B" },
+                "29": { "optionA": "deshalb", "optionB": "trotzdem", "optionC": "übrigens", "correctAnswer": "C" },
+                "30": { "optionA": "ausgemacht", "optionB": "beschlossen", "optionC": "entschieden", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 8,
+            "title": "Redaktionsschluss Vereinszeitung",
+            "paragraph": "Liebe Autorinnen und Autoren,\nWeihnachten ist nicht mehr weit, und bevor wir uns alle in die wohlverdienten Feiertage verabschieden, möchte ich euch noch einmal an den Redaktionsschluss für unsere Vereinszeitung erinnern, den wir für den 10. Januar festgelegt haben. (21) ihr alle wisst, kann Claudia, unsere fleißige Layouterin, sich erst dann an die Arbeit machen, wenn alle Texte und Bilder (22). Die fertige Datei muss bis spätestens 22. Januar in der Druckerei sein, damit das Heft pünktlich zum 1. Februar fertig sein kann. Ein gutes Layout ist auch (23) Interesse der Autorinnen und Autoren. Ist es schlecht, schenkt man dem Artikel automatisch weniger Beachtung. Liefert also bitte eure Beiträge rechtzeitig (24). Für die Bildbearbeitung ist wie immer Florian zuständig. Bitte die Bilder im TIF- oder im JPG-Format liefern und bitte den Bildnachweis anführen, wenn die Bilder nicht von euch selbst stammen. Für eure eigenen Bilder liegt das Copyright natürlich (25) euch. Leider sind die Verkaufszahlen unserer Vereinszeitung im letzten Jahr (26) zurückgegangen. Deshalb möchten wir euch alle noch einmal herzlich (27) bitten, nur Themen zu wählen, die unsere Vereinsmitglieder betreffen und sie auch wirklich (28). Das heißt nicht, (29) man große Themen wie Politik oder Gesellschaft nicht behandeln kann, aber sie sollten leserfreundlich verpackt sein. Wir verstehen uns ausdrücklich (30) unabhängige Zeitung und möchten uns keinen Maulkorb umhängen lassen. Trotzdem sollten die Beiträge im Rahmen sachlicher Meinungsäußerungen bleiben. In diesem Sinne freut sich die Redaktion auf zahlreiche Artikel!\nBeste Grüße und viel Erfolg\nEure Redaktion",
+            "questions": {
+                "21": { "optionA": "wie", "optionB": "was", "optionC": "wann", "correctAnswer": "A" },
+                "22": { "optionA": "vorliegen", "optionB": "unterliegen", "optionC": "liegen lassen", "correctAnswer": "A" },
+                "23": { "optionA": "von", "optionB": "ohne", "optionC": "im", "correctAnswer": "A" },
+                "24": { "optionA": "zu", "optionB": "ein", "optionC": "ab", "correctAnswer": "A" },
+                "25": { "optionA": "mit", "optionB": "für", "optionC": "bei", "correctAnswer": "C" },
+                "26": { "optionA": "unerschütterlich", "optionB": "stark", "optionC": "fest", "correctAnswer": "B" },
+                "27": { "optionA": "deswegen", "optionB": "darum", "optionC": "dafür", "correctAnswer": "B" },
+                "28": { "optionA": "besprechen", "optionB": "aussprechen", "optionC": "ansprechen", "correctAnswer": "C" },
+                "29": { "optionA": "ob", "optionB": "dass", "optionC": "damit", "correctAnswer": "A" },
+                "30": { "optionA": "sowie", "optionB": "als ob", "optionC": "als", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 9,
+            "title": "Au-pair Bewerbung bei Familie Geissler/Dippold",
+            "paragraph": "Liebe Familie Geissler, oder Dippold\nvielen Dank für Ihre Antwort (21) meine Bewerbung als Au-pair-Mädchen. Danke schön auch für die Fotos von den Kindern. Ich bin schon sehr gespannt und freue mich sehr Ihre Familie im September kennenzulernen!\nIm Juni schließe ich meine Schulausbildung (22) und möchte auch noch mein Deutsch (23) verbessern. Dafür werde ich im Sommer noch einen Sprachkurs an einer Sommerschule in meiner Heimat (24). Anschließend fahre ich mit meiner Familie für drei Wochen in Urlaub ans Meer. ich habe noch eine Frage (25) Sie. Sie schreiben, dass Sie für die Weihnachtsferien einen Skiurlaub planen, bei dem ich mitfahren kann, wenn ich möchte. Ich habe aber keine Ski und Skibekleidung. Kann ich mir diese Sachen bei (26) ausleihen? In meiner Heimat werde ich sie kaum jemals wieder brauchen. Aber ich bin immer offen für Neues und möchte das Skilaufen gern einmal ausprobieren. Danke schön, (27) Sie mich am Flughafen abholen kommen. Ich habe meinen Flug nach Frankfurt (28) gebucht. Am 2.9. werde ich sehr früh in Frankfurt landen, nämlich um 5:15 Uhr. Ich schlage (29), dass wir uns erst gegen 7:30 Uhr in einem Café treffen. Vielleicht komme ich ja mit Verspätung oder muss länger auf mein Gepäck warten. Dann müssen Sie nicht so früh da sein. Bitte schreiben Sie mir, wenn Sie noch etwas über mich wissen möchten! Ich schicke einige Fotos mit der Mail, damit die Kinder schon ein bisschen (30) von mir sehen.\nViele Grüße\nIhre Asja",
+            "questions": {
+                "21": { "optionA": "wegen", "optionB": "von", "optionC": "auf", "correctAnswer": "A" },
+                "22": { "optionA": "zu", "optionB": "aus", "optionC": "ab", "correctAnswer": "B" },
+                "23": { "optionA": "kaum", "optionB": "fast", "optionC": "ein bisschen", "correctAnswer": "C" },
+                "24": { "optionA": "unterrichten", "optionB": "machen", "optionC": "lernen", "correctAnswer": "B" },
+                "25": { "optionA": "über", "optionB": "für", "optionC": "an", "correctAnswer": "A" },
+                "26": { "optionA": "irgendwo", "optionB": "irgendjemandem", "optionC": "irgendetwas", "correctAnswer": "A" },
+                "27": { "optionA": "falls", "optionB": "dass", "optionC": "dafür", "correctAnswer": "B" },
+                "28": { "optionA": "schon", "optionB": "noch", "optionC": "bevor", "correctAnswer": "B" },
+                "29": { "optionA": "zu", "optionB": "vor", "optionC": "nach", "correctAnswer": "C" },
+                "30": { "optionA": "weniger", "optionB": "viel", "optionC": "mehr", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 10,
+            "title": "Bewerbung als Teilzeit-Mitarbeiterin im Antiquitätengeschäft",
+            "paragraph": "Sehr geehrter Herr Dr. Dobromil,\nmit (21) Interesse habe ich Ihr Stellenangebot in der Essener Zeitung gelesen, (22) Sie eine Teilzeit-Mitarbeiterin in Ihrem Antiquitätengeschäft suchen. Es reizt mich eine verantwortungsvolle Aufgabe in einem so renommierten Geschäft wie dem (23) übernehmen (24). Nach dem Abitur am Kreisgymnasium in Velbert begann ich eine dreijährige Schreinerlehre (25) der Firma Eichelbohrer & Co und besuchte die Kreisberufsschule in Velbert. Nach erfolgreichem Abschluss meiner Berufsausbildung arbeitete ich (26) bei Stutz & Partner - Möbeldesign in Düsseldorf. Danach schrieb ich mich an der Fachhochschule Köln im Fachbereich Möbeldesign ein und (27) meine Liebe zu antiquarischen Möbelstücken. Meine Spezialität ist das stilgenaue Restaurieren und Aufarbeiten antiquarischer Möbel insbesondere aus dem Biedermeier und dem Jugendstil. Aufgrund meiner Berufserfahrung und meines Studiums konnte ich umfangreiche Kenntnisse erwerben, (28) Möbelstile und die Herstellungskunst in den verschiedensten Epochen (29) in Nord-(29) in Südeuropa angeht. Mein Studium lässt mir genügend Zeit, eine Teilzeitstelle zu übernehmen, die darüber hinaus meinen beruflichen Fähigkeiten und Neigungen entspricht. Aus diesem Grund habe ich mich entschlossen, (30), und bewerbe mich um die von Ihnen angebotene Teilzeitstelle.\nIch freue mich auf ein persönliches Gespräch.\nMit freundlichen Grüßen,\nSabina Holzinger",
+            "questions": {
+                "21": { "optionA": "allergrößte", "optionB": "allergrößtem", "optionC": "allergrößten", "correctAnswer": "C" },
+                "22": { "optionA": "an dem", "optionB": "auf dem", "optionC": "in dem", "correctAnswer": "B" },
+                "23": { "optionA": "Ihrem", "optionB": "Ihren", "optionC": "Ires", "correctAnswer": "A" },
+                "24": { "optionA": "können", "optionB": "könnte", "optionC": "zu können", "correctAnswer": "A" },
+                "25": { "optionA": "an", "optionB": "bei", "optionC": "mit", "correctAnswer": "A" },
+                "26": { "optionA": "ein Jahr lang", "optionB": "durch ein Jahr", "optionC": "seit einem Jahr", "correctAnswer": "C" },
+                "27": { "optionA": "entdeckte", "optionB": "erfand", "optionC": "merkte", "correctAnswer": "A" },
+                "28": { "optionA": "das", "optionB": "was", "optionC": "welches", "correctAnswer": "A" },
+                "29": { "optionA": "sowohl---als auch", "optionB": "teils---teils", "optionC": "weder---noch", "correctAnswer": "A" },
+                "30": { "optionA": "auf Ihre Anzeige antworten", "optionB": "auf Ihre Anzeige zu antworten", "optionC": "um auf Ihre Anzeige zu antworten", "correctAnswer": "B" }
+            }
+        },{
+            "Page": 11,
+            "title": "Stellenbewerbung Antiquitätengeschäft",
+            "paragraph": "Sehr geehrter Herr Dr. Moosberger,\nmit (21) Interesse habe ich Ihr Stellenangebot in der Essener Zeitung gelesen, (22) Sie eine Teilzeit-Mitarbeiterin in Ihrem Antiquitätengeschäft suchen. Es reizt mich eine verantwortungsvolle Aufgabe in einem (23) renommierten Geschäft wie dem Ihrigen übernehmen (24). Nach dem Abitur am Kreisgymnasium in Velbert (25) ich eine dreijährige Schreinerlehre bei der Firma Eichelbohrer & Co und besuchte die Kreisberufsschule in Velbert. Nach erfolgreichem Abschluss meiner Berufsausbildung arbeitete ich (26) bei Stutz & Partner - Möbeldesign in Düsseldorf. Danach schrieb ich mich an der Fachhochschule Köln im Fachbereich Möbeldesign ein und (27) meine Liebe zu antiquarischen Möbelstücken. Meine Spezialität ist das stilgenaue Restaurieren und Aufarbeiten antiquarischer Möbel, insbesondere aus dem Biedermeier und dem Jugendstil. (28) meiner Berufstätigkeit und meines Studiums konnte ich umfangreiche Kenntnisse erwerben, was Möbelstile und die Herstellungskunst in den verschiedensten Epochen (29) in Nord-(29) in Südeuropa angeht. Mein Studium lässt mir genügend Zeit, eine Teilzeitstelle zu übernehmen, die darüber hinaus meinen beruflichen Fähigkeiten und Neigungen entspricht. Aus diesem Grund habe ich mich entschlossen, (30), und bewerbe mich um die von Ihnen angebotene Teilzeitstelle.\nIch freue mich auf ein persönliches Gespräch.\nMit freundlichen Grüßen,\nSabine Holzinger",
+            "questions": {
+                "21": { "optionA": "allegrößte", "optionB": "allegrößtem", "optionC": "allegrößten", "correctAnswer": "C" },
+                "22": { "optionA": "an", "optionB": "auf", "optionC": "in", "correctAnswer": "C" },
+                "23": { "optionA": "als", "optionB": "so", "optionC": "wie", "correctAnswer": "C" },
+                "24": { "optionA": "können", "optionB": "könnte", "optionC": "zu können", "correctAnswer": "A" },
+                "25": { "optionA": "begann", "optionB": "beging", "optionC": "belief", "correctAnswer": "A" },
+                "26": { "optionA": "durch ein Jahr", "optionB": "ein Jahr lang", "optionC": "seit einem Jahr", "correctAnswer": "C" },
+                "27": { "optionA": "entdeckte", "optionB": "erfand", "optionC": "merkte", "correctAnswer": "A" },
+                "28": { "optionA": "dabei", "optionB": "inzwischen", "optionC": "während", "correctAnswer": "A" },
+                "29": { "optionA": "sowohl---als auch", "optionB": "teils---teils", "optionC": "weder---noch", "correctAnswer": "A" },
+                "30": { "optionA": "auf Ihre Anzeige antworten", "optionB": "auf Ihre Anzeige zu antworten", "optionC": "um auf Ihre Anzeige zu antworten", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 12,
+            "title": "Nachrichten von Richard an Corinna",
+            "paragraph": "Liebe Corinna,\nes tut mir wirklich Leid, (21) ich dir seit Ewigkeiten nicht mehr geschrieben habe. Aber du weißt ja: Ich habe seit drei Monaten eine neue Arbeit. Und da hatte ich gar keine Zeit, mich mit etwas Anderem zu (22) als mit der neuen Arbeit. Es hat mich wirklich überrascht, wie schnell ich nach dem Abschluss meiner Ausbildung etwas gefunden habe. Dabei haben alle immer nur gesagt: \"Gärtner? Die gibt es (23) wie Sand am Meer, wie willst du da so schnell einen Job finden?\". Ich arbeite jetzt in einer Baumschule. Wir kultivieren und verkaufen Obstbäume, (24) an die Obstbauern der näheren Umgebung. Die Arbeit macht mir großen Spaß, es ist andererseits aber ein bisschen anstrengend, acht Stunden am Tag körperlich - (25) im Freien - zu arbeiten. Und leider (26) ich fast eine dreiviertel Stunde mit dem Zug fahren, um an meinen Arbeitsplatz zu kommen. Wenn ich dann am Abend nach Hause komme, bin ich so müde, dass ich eigentlich nur noch fernsehen oder Musik hören kann. Ich habe im Moment nur (27) Lust, etwas zu unternehmen, aber ich bin mir sicher: Sie (28) wieder. Wie geht es dir denn? Du müsstest doch jetzt auch bald mit deiner Ausbildung fertig sein, oder? Hast du schon damit angefangen, dich bei verschiedenen Arbeitgebern zu bewerben? Oder (29) du dir noch ein bisschen Zeit damit? Ich würde dir in jedem Fall raten: Fang so früh wie (30) mit den Bewerbungen an, je früher, desto besser. Du weißt ja, was unser Klassenlehrer in der Realschule immer gesagt hat: Gut Ding will Weile haben.So, jetzt muss ich aufhören und ins Bett gehen, damit ich morgen wieder fit bin.\nMach's gut, bis bald,\ndein\nRichard",
+            "questions": {
+                "21": { "optionA": "dass", "optionB": "ob", "optionC": "weil", "correctAnswer": "A" },
+                "22": { "optionA": "bedienen", "optionB": "beeilen", "optionC": "beschäftigen", "correctAnswer": "C" },
+                "23": { "optionA": "bloß", "optionB": "doch", "optionC": "nur", "correctAnswer": "C" },
+                "24": { "optionA": "außerdem", "optionB": "insbesondere", "optionC": "jedoch", "correctAnswer": "C" },
+                "25": { "optionA": "übermächtig", "optionB": "übermäßig", "optionC": "überwiegend", "correctAnswer": "B" },
+                "26": { "optionA": "darf", "optionB": "muss", "optionC": "soll", "correctAnswer": "B" },
+                "27": { "optionA": "gering", "optionB": "knapp", "optionC": "wenig", "correctAnswer": "C" },
+                "28": { "optionA": "kommt", "optionB": "läuft", "optionC": "steht", "correctAnswer": "A" },
+                "29": { "optionA": "brauchst", "optionB": "hast", "optionC": "lässt", "correctAnswer": "A" },
+                "30": { "optionA": "kürzlich", "optionB": "möglich", "optionC": "üblich", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 13,
+            "title": "Nachrichten von Richard an Corinna - البديل",
+            "paragraph": "Liebe Corinna,\nes tut mir wirklich Leid, (21) ich dir seit Ewigkeiten nicht mehr geschrieben habe. Aber du weißt ja: Ich habe seit drei Monaten eine neue Arbeit. Und da hatte ich gar keine Zeit, mich mit etwas Anderem zu (22) als mit der neuen Arbeit. Es hat mich wirklich überrascht, wie schnell ich nach dem Abschluss meiner Ausbildung etwas gefunden habe. Dabei haben alle immer nur gesagt: \"Gärtner? Die gibt es (23) wie Sand am Meer, wie willst du da so schnell einen Job finden?\". ich arbeite jetzt in einer Baumschule. Wir kultivieren und verkaufen Obstbäume (24), an die Obstbauern der näheren Umgebung. Die Arbeit macht mir großen Spaß, es ist andererseits aber ein bisschen anstrengend, acht Stunden am Tag körperlich – (25) im Freien - zu arbeiten. Und leider muss ich (26) eine dreiviertel Stunde mit dem Zug fahren, um an meinen Arbeitsplatz zu kommen. Wenn ich dann am Abend nach Hause komme, bin ich so müde, dass ich eigentlich nur noch fernsehen oder Musik hören kann. Ich habe im Moment nur (27) Lust, etwas zu unternehmen, aber ich bin mir sicher: Sie (28) wieder. Wie geht es dir denn? Du müsstest doch jetzt auch bald mit deiner Ausbildung fertig sein, oder? Hast du schon damit angefangen, dich bei verschiedenen Arbeitgebern zu bewerben? Oder (29) du dir noch ein bisschen Zeit damit? Ich würde dir in jedem Fall raten: Fang so früh wie (30) mit den Bewerbungen an, je früher, desto besser. Du weißt ja, was unser Klassenlehrer in der Realschule immer gesagt hat: Gut Ding will Weile haben.So, jetzt muss ich aufhören und ins Bett gehen, damit ich morgen wieder fit bin.\nMach's gut, bis bald,\ndein\nRichard",
+            "questions": {
+                "21": { "optionA": "dass", "optionB": "ob", "optionC": "weil", "correctAnswer": "A" },
+                "22": { "optionA": "bedienen", "optionB": "beeilen", "optionC": "beschäftigen", "correctAnswer": "C" },
+                "23": { "optionA": "bloß", "optionB": "doch", "optionC": "nur", "correctAnswer": "C" },
+                "24": { "optionA": "außerdem", "optionB": "insbesondere", "optionC": "jedoch", "correctAnswer": "C" },
+                "25": { "optionA": "übermächtig", "optionB": "übermäßig", "optionC": "überwiegend", "correctAnswer": "B" },
+                "26": { "optionA": "darf", "optionB": "muss", "optionC": "soll", "correctAnswer": "B" },
+                "27": { "optionA": "gering", "optionB": "knapp", "optionC": "wenig", "correctAnswer": "C" },
+                "28": { "optionA": "kommt", "optionB": "läuft", "optionC": "steht", "correctAnswer": "A" },
+                "29": { "optionA": "brauchst", "optionB": "hast", "optionC": "lässt", "correctAnswer": "A" },
+                "30": { "optionA": "kürzlich", "optionB": "möglich", "optionC": "üblich", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 14,
+            "title": "Urlaubsnachrichten von Justus/Johanna an Richard",
+            "paragraph": "Lieber Justus, oder Juhannas\nvielen Dank für deine Urlaubskarte, (21) die ich mich wirklich sehr gefreut habe! Ich wusste (22) nicht, dass ihr gerne wandern geht. Oder habt ihr das jetzt zum ersten Mal gemacht?\nAls Kind war ich mit meinen Eltern mal wandern, aber mir hat das damals nicht (23) gefallen. Ich war auch noch klein und hatte keine Lust, so lange zu laufen.\nHeute fahre ich lieber an den Strand und mache einen schönen Badeurlaub. Den ganzen Tag lesen, in der Sonne liegen, ab und zu mal ins Wasser gehen - (24) habe ich schon im Alltag genug Stress. Dabei fällt mir ein: Wie ist eigentlich deine neue Stelle? Du arbeitest doch jetzt in dieser internationalen Baufirma, oder? Bist du jetzt schneller im Büro als früher oder ist die Firma sogar noch weiter (25) als deine alte? Du musstest ja immer ziemlich lange fahren, daran erinnere ich mich noch gut!\nIch denke im Moment auch darüber nach, die Stelle zu (26). Mein Chef und meine Kollegen sind zwar total nett und die Bezahlung ist auch gut, aber ich mache fast jeden Tag das Gleiche - und das jetzt schon seit über zehn Jahren. Ehrlich (27) langweile ich mich in den letzten Monaten immer häufiger und würde gerne noch mal etwas Neues ausprobieren.\nDeshalb mache ich ab dem (28) Monat erst mal eine Weiterbildung, sonst hätte ich wohl nicht so gute Chancen, eine neue Stelle zu bekommen. Schließlich wird es auch immer schwieriger, (29) älter man ist. Die meisten Arbeitgeber wollen doch lieber jüngere Angestellte. Wie (30) es, wenn wir uns demnächst treffen würden? Wir könnten in diesem neuen Restaurant in der Innenstadt essen gehen. Melde dich doch einfach mal wieder!\nViele Grüße\nRichard",
+            "questions": {
+                "21": { "optionA": "an", "optionB": "für", "optionC": "über", "correctAnswer": "B" },
+                "22": { "optionA": "daher", "optionB": "gar", "optionC": "sicher", "correctAnswer": "C" },
+                "23": { "optionA": "besonders", "optionB": "einfach", "optionC": "kaum", "correctAnswer": "C" },
+                "24": { "optionA": "allerdings", "optionB": "außerdem", "optionC": "schließlich", "correctAnswer": "B" },
+                "25": { "optionA": "---", "optionB": "abgerückt", "optionC": "entfernt", "correctAnswer": "C" },
+                "26": { "optionA": "ändern", "optionB": "verwechseln", "optionC": "wechseln", "correctAnswer": "A" },
+                "27": { "optionA": "gesagt", "optionB": "sagend", "optionC": "zu sagen", "correctAnswer": "A" },
+                "28": { "optionA": "kommende", "optionB": "kommendem", "optionC": "kommenden", "correctAnswer": "C" },
+                "29": { "optionA": "als", "optionB": "je", "optionC": "weil", "correctAnswer": "B" },
+                "30": { "optionA": "ist", "optionB": "war", "optionC": "wäre", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 15,
+            "title": "Urlaubsnachrichten von Justus/Johanna an Richard - البديل",
+            "paragraph": "Lieber Justus, oder Juhannas\nvielen Dank für deine Urlaubskarte, (21) die ich mich wirklich sehr gefreut habe! Ich wusste (22) nicht, dass ihr gerne wandern geht. Oder habt ihr das jetzt zum ersten Mal gemacht?\nAls Kind war ich mit meinen Eltern mal wandern, aber mir hat das damals nicht (23) gefallen. Ich war auch noch klein und hatte keine Lust, so lange zu laufen.\nHeute fahre ich lieber an den Strand und mache einen schönen Badeurlaub. Den ganzen Tag lesen, in der Sonne liegen, ab und zu mal ins Wasser gehen - (24) habe ich schon im Alltag genug Stress. Dabei fällt mir ein: Wie ist eigentlich deine neue Stelle? Du arbeitest doch jetzt in dieser internationalen Baufirma, oder? Bist du jetzt schneller im Büro als früher oder ist die Firma sogar noch weiter (25) als deine alte? Du musstest ja immer ziemlich lange fahren, daran erinnere ich mich noch gut!\nIch denke im Moment auch darüber nach, die Stelle zu (26). Mein Chef und meine Kollegen sind zwar total nett und die Bezahlung ist auch gut, aber ich mache fast jeden Tag das Gleiche - und das jetzt schon seit über zehn Jahren. Ehrlich (27) langweile ich mich in den letzten Monaten immer häufiger und würde gerne noch mal etwas Neues ausprobieren.\nDeshalb mache ich ab dem (28) Monat erst mal eine Weiterbildung, sonst hätte ich wohl nicht so gute Chancen, eine neue Stelle zu bekommen. Schließlich wird es auch immer schwieriger, (29) älter man ist. Die meisten Arbeitgeber wollen doch lieber jüngere Angestellte. Wie (30) es, wenn wir uns demnächst treffen würden? Wir könnten in diesem neuen Restaurant in der Innenstadt essen gehen. Melde dich doch einfach mal wieder!\nViele Grüße\nRichard",
+            "questions": {
+                "21": { "optionA": "dass", "optionB": "ob", "optionC": "weil", "correctAnswer": "A" },
+                "22": { "optionA": "bedienen", "optionB": "beeilen", "optionC": "beschäftigen", "correctAnswer": "C" },
+                "23": { "optionA": "bloß", "optionB": "doch", "optionC": "nur", "correctAnswer": "C" },
+                "24": { "optionA": "außerdem", "optionB": "insbesondere", "optionC": "jedoch", "correctAnswer": "C" },
+                "25": { "optionA": "übermächtig", "optionB": "übermäßig", "optionC": "überwiegend", "correctAnswer": "B" },
+                "26": { "optionA": "darf", "optionB": "muss", "optionC": "soll", "correctAnswer": "B" },
+                "27": { "optionA": "gering", "optionB": "knapp", "optionC": "wenig", "correctAnswer": "C" },
+                "28": { "optionA": "kommt", "optionB": "läuft", "optionC": "steht", "correctAnswer": "A" },
+                "29": { "optionA": "brauchst", "optionB": "hast", "optionC": "lässt", "correctAnswer": "B" },
+                "30": { "optionA": "kürzlich", "optionB": "möglich", "optionC": "üblich", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 16,
+            "title": "Nachrichten von Nadine an Ferdinand",
+            "paragraph": "Hallo Ferdinand,\nnun habe ich mich schon so lange nicht bei dir gemeldet - das tut mir wirklich leid! Ich hatte in den vergangenen Monaten viel Stress, weil ich ja nun studiere und nebenbei noch arbeiten muss, (21) meine Miete und alles andere bezahlen zu können. Zum Glück macht mir mein Nebenjob wenigstens Spaß. Ich weiß nicht, (22) ich das sonst durchhalten würde. Vielleicht habe ich dir schon erzählt, dass ich abends und am Wochenende in einer Kneipe in der Küche helfe. Das ist zwar oft sehr anstrengend, (23) andererseits ist dauernd was los, es wird nicht langweilig, und meine Kollegen sind total nett. Erinnerst du dich noch an unsere Zeit in der Grundschule? Mit acht Jahren wollte ich ja (24) Kellnerin werden, weil man da Trinkgeld bekommt. Naja, jetzt bin ich in der Küche gelandet, knapp daneben ist auch vorbei ;)\nWas macht denn deine Ausbildung? Wenn ich (25) nicht täusche, bist du ja in einem halben Jahr schon fertig, oder? Das ist ja nicht mehr lang! Neulich habe ich übrigens Tina und Kevin hier in der Nähe der Uni getroffen - die waren ja schon ein Paar, (26) als wir noch in der Schule gegangen sind, und jetzt will sie tatsächlich verheiratet! Wie sehen denn deine Pläne für die (27) Wochenenden aus? Wir könnten uns ja vielleicht mal wieder treffen und in Ruhe quatschen - hättest du Lust (28)?\nIn meiner Straße hat vor einem Monat ein nettes kleines Café aufgemacht, die haben nicht nur sehr leckere Kuchen, (29) sondern auch einige kleine Gerichte zu wirklich günstigen Preisen. Wäre das was (30) für dich? Mail mir doch einfach, wenn du magst, ich würde mich freuen.\nViele Grüße,\nNadine",
+            "questions": {
+                "21": { "optionA": "anstatt", "optionB": "ohne", "optionC": "um", "correctAnswer": "C" },
+                "22": { "optionA": "dass", "optionB": "ob", "optionC": "während", "correctAnswer": "B" },
+                "23": { "optionA": "aber", "optionB": "denn", "optionC": "und", "correctAnswer": "A" },
+                "24": { "optionA": "bestimmt", "optionB": "unbedingt", "optionC": "völlig", "correctAnswer": "B" },
+                "25": { "optionA": "dich", "optionB": "mich", "optionC": "sich", "correctAnswer": "B" },
+                "26": { "optionA": "als", "optionB": "da", "optionC": "wenn", "correctAnswer": "A" },
+                "27": { "optionA": "jetzigen", "optionB": "kommenden", "optionC": "letzten", "correctAnswer": "B" },
+                "28": { "optionA": "danach", "optionB": "darüber", "optionC": "dazu", "correctAnswer": "C" },
+                "29": { "optionA": "aber", "optionB": "oder", "optionC": "sondern", "correctAnswer": "B" },
+                "30": { "optionA": "für", "optionB": "gegen", "optionC": "ohne", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 17,
+            "title": "Nachrichten von Nadine an Ferdinand - البديل",
+            "paragraph": "Hallo Ferdinand, oder Hallo Philip, oder Hallo Christopher\nnun habe ich mich schon so lange nicht bei dir gemeldet - das tut mir wirklich leid! Ich hatte in den vergangenen Monaten viel Stress, weil ich ja nun studiere und nebenbei noch arbeiten muss, (21) meine Miete und alles andere bezahlen zu können. Zum Glück macht mir mein Nebenjob wenigstens Spaß. Ich weiß nicht, (22) ich das sonst durchhalten würde. Vielleicht habe ich dir schon erzählt, dass ich abends und am Wochenende in einer Kneipe in der Küche helfe. Das ist zwar oft sehr anstrengend, (23) andererseits ist dauernd was los, es wird nicht langweilig, und meine Kollegen sind total nett. Erinnerst du dich noch an unsere Zeit in der Grundschule? Mit acht Jahren wollte ich ja (24) Kellnerin werden, weil man da Trinkgeld bekommt. Naja, jetzt bin ich in der Küche gelandet, knapp daneben ist auch vorbei ;)\nWas macht denn deine Ausbildung? Wenn ich (25) nicht täusche, bist du ja in einem halben Jahr schon fertig, oder? Das ist ja nicht mehr lang! Neulich habe ich übrigens Tina und Kevin hier in der Nähe der Uni getroffen - die waren ja schon ein Paar, (26) als wir noch in der Schule gegangen sind, und jetzt will sie tatsächlich verheiratet! Wie sehen denn deine Pläne für die (27) Wochenenden aus? Wir könnten uns ja vielleicht mal wieder treffen und in Ruhe quatschen - hättest du Lust (28)?\nIn meiner Straße hat vor einem Monat ein nettes kleines Café aufgemacht, die haben nicht nur sehr leckere Kuchen, (29) sondern auch einige kleine Gerichte zu wirklich günstigen Preisen. Wäre das was (30) für dich? Mail mir doch einfach, wenn du magst, ich würde mich freuen.\nViele Grüße,\nNadine",
+            "questions": {
+                "21": { "optionA": "damit", "optionB": "für", "optionC": "um", "correctAnswer": "C" },
+                "22": { "optionA": "wenn", "optionB": "wie", "optionC": "wo", "correctAnswer": "B" },
+                "23": { "optionA": "damit", "optionB": "denn", "optionC": "doch", "correctAnswer": "C" },
+                "24": { "optionA": "bestimmt", "optionB": "unbedingt", "optionC": "völlig", "correctAnswer": "B" },
+                "25": { "optionA": "dich", "optionB": "mich", "optionC": "sich", "correctAnswer": "B" },
+                "26": { "optionA": "als", "optionB": "da", "optionC": "wenn", "correctAnswer": "A" },
+                "27": { "optionA": "jetzigen", "optionB": "kommenden", "optionC": "letzten", "correctAnswer": "B" },
+                "28": { "optionA": "danach", "optionB": "darüber", "optionC": "dazu", "correctAnswer": "C" },
+                "29": { "optionA": "aber", "optionB": "oder", "optionC": "sondern", "correctAnswer": "B" },
+                "30": { "optionA": "für", "optionB": "gegen", "optionC": "ohne", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 18,
+            "title": "Nachrichten von Sarah an Paola",
+            "paragraph": "Liebe Paola,\nvielen Dank für deine Nachricht und die vielen schönen Fotos. Eure Laura ist wirklich niedlich!\nIch hoffe, dass wir (21) bald kennenlernen. Aber ich weiß, wie anstrengend die erste Zeit mit einem Baby sein kann. (22) Warten wir lieber noch etwas, bevor wir euch besuchen. Sagt uns einfach Bescheid, (23) euch ein Treffen lieb wäre. Eine kleine Überraschung für eure Laura steht (24) jeden Fall bereit.\nBei uns gibt es auch einige Veränderungen. Elijah ist diesen Herbst eingeschult worden. Er kommt mit allem gut zurecht und hat auch schon Freundschaften geschlossen. Lea geht nun in den Kindergarten. (25) diesem Jahr sind hier im Ort Grundschule und Kindergarten in demselben Gebäudekomplex untergebracht. Das kommt uns sehr gelegen.\nNun ist es vormittags sehr still bei uns im Haus. Ich überlege mir, (26) ich nicht wieder anfangen soll, halbtags zu arbeiten. In meinen alten Beruf als Krankenschwester möchte ich aber nicht zurück, denn ich kann mir gar nicht (27), wie ich den Schichtdienst im Krankenhaus und die Kinderbetreuung unter einen Hut bringen soll.\nWahrscheinlich bewerbe ich mich bei einer Arztpraxis oder der Verwaltung einer Krankenkasse. Was hältst du (28)? Fällt dir vielleicht eine Tätigkeit ein, bei der meine Ausbildung (29) Krankenschwester von Vorteil wäre? Wie dem auch (30) - ich wünsche euch viel Glück und Freude mit eurem Baby. Wenn Du irgendwelche Tipps brauchst, kannst du mich jederzeit anrufen. Im Anhang schicke ich dir ein paar Fotos vom Schulanfang.\nIch freue mich schon darauf, euch bald wiederzusehen.\nLiebe Grüße\nSarah",
+            "questions": {
+                "21": { "optionA": "ihr", "optionB": "Sie", "optionC": "sie", "correctAnswer": "B" },
+                "22": { "optionA": "deshalb", "optionB": "obwohl", "optionC": "trotzdem", "correctAnswer": "C" },
+                "23": { "optionA": "bis", "optionB": "dann", "optionC": "wann", "correctAnswer": "A" },
+                "24": { "optionA": "auf", "optionB": "im", "optionC": "in", "correctAnswer": "C" },
+                "25": { "optionA": "seit", "optionB": "vom", "optionC": "zum", "correctAnswer": "A" },
+                "26": { "optionA": "ob", "optionB": "obwohl", "optionC": "ohnehin", "correctAnswer": "A" },
+                "27": { "optionA": "verstellen", "optionB": "vorstellen", "optionC": "zustellen", "correctAnswer": "B" },
+                "28": { "optionA": "dafür", "optionB": "damit", "optionC": "davon", "correctAnswer": "A" },
+                "29": { "optionA": "als", "optionB": "wie", "optionC": "zu", "correctAnswer": "A" },
+                "30": { "optionA": "hätte", "optionB": "sei", "optionC": "wäre", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 19,
+            "title": "Reiseplanungen von Karl und Monika an David",
+            "paragraph": "Lieber David,\nwas für eine schöne Überraschung, dass Du nach Deutschland kommst. Und (21) schöner ist es, dass Du uns besuchen willst, (22) Du in München zu tun hast und wir in Köln wohnen, was ja nicht so nah ist.\nDu bist jederzeit herzlich willkommen. Wir können für Dich ein interessantes Wochenende organisieren. Du kannst Dir den Kölner Dom (23) anschauen und noch ein paar andere Sehenswürdigkeiten. Und natürlich (24) wir genug Zeit für Gespräche haben. Die Briefe, die wir sonst schreiben, können persönliche Gespräche ja nicht ersetzen.\nMach dir keine Sorgen über Deinen Ausflug nach Köln. Schreib uns kurz, an welchem Tag und um welche Uhrzeit Du am Hauptbahnhof (25) ankommen wirst. Wir holen Dich dort mit dem Auto ab, so dass Du Dir keine Gedanken über Bus und Straßenbahn machen musst. Warte einfach am Bahnsteig auf uns, (26) falls wir uns verspäten sollten. Zu Hause erwartet Dich ein Gästezimmer. Es ist das Zimmer unseres Sohnes, der schon seit Jahren eine eigene Wohnung hat. Wir benutzen es (27) für ihn, wenn er zu Besuch kommt, aber auch für andere Gäste. Es wird Dir bestimmt gefallen. Wir können dann alte Erinnerungen (28) auffrischen. Wir haben sehr viele Fotos gemacht, (29) als wir bei Dir zu Besuch waren. Kaum zu glauben, dass inzwischen schon drei Jahre vergangen sind. Es ist in dieser Zeit viel geschehen; aber (30) lass Dich überraschen...\nWir wünschen Dir eine gute Reise und freuen uns auf Deinen Besuch.\nViele Grüße\nKarl und Monika",
+            "questions": {
+                "21": { "optionA": "ganz", "optionB": "noch", "optionC": "zwar", "correctAnswer": "C" },
+                "22": { "optionA": "jedoch", "optionB": "obwohl", "optionC": "trotzdem", "correctAnswer": "C" },
+                "23": { "optionA": "anschauen", "optionB": "überschauen", "optionC": "vorschauen", "correctAnswer": "A" },
+                "24": { "optionA": "konnten", "optionB": "sollten", "optionC": "wollten", "correctAnswer": "C" },
+                "25": { "optionA": "ankommen wirst", "optionB": "anzukommen wirst", "optionC": "wirst ankommen", "correctAnswer": "C" },
+                "26": { "optionA": "falls", "optionB": "für den fall", "optionC": "im fall", "correctAnswer": "A" },
+                "27": { "optionA": "neulich", "optionB": "seitdem", "optionC": "vormals", "correctAnswer": "A" },
+                "28": { "optionA": "auffrischen", "optionB": "aufholen", "optionC": "aufsparen", "correctAnswer": "A" },
+                "29": { "optionA": "als", "optionB": "wann", "optionC": "wo", "correctAnswer": "A" },
+                "30": { "optionA": "geh", "optionB": "komm", "optionC": "lass", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 20,
+            "title": "Reiseplanungen von Karl und Monika an David - البديل",
+            "paragraph": "Lieber David,\nwas für eine schöne Überraschung, dass Du nach Deutschland kommst. Und (21) schöner ist es, dass Du uns besuchen willst, (22) Du in München zu tun hast und wir in Köln wohnen, was ja nicht so nah ist.\nDu bist jederzeit herzlich willkommen. Wir können für Dich ein interessantes Wochenende organisieren. Du kannst Dir den Kölner Dom (23) anschauen und noch ein paar andere Sehenswürdigkeiten. Und natürlich (24) wir genug Zeit für Gespräche haben. Die Briefe, die wir sonst schreiben, können persönliche Gespräche ja nicht ersetzen.\nMach dir keine Sorgen über Deinen Ausflug nach Köln. Schreib uns kurz, an welchem Tag und um welche Uhrzeit Du am Hauptbahnhof (25) ankommen wirst. Wir holen Dich dort mit dem Auto ab, so dass Du Dir keine Gedanken über Bus und Straßenbahn machen musst. Warte einfach am Bahnsteig auf uns, (26) falls wir uns verspäten sollten. Zu Hause erwartet Dich ein Gästezimmer. Es ist das Zimmer unseres Sohnes, der schon seit Jahren eine eigene Wohnung hat. Wir benutzen es (27) für ihn, wenn er zu Besuch kommt, aber auch für andere Gäste. Es wird Dir bestimmt gefallen. Wir können dann alte Erinnerungen (28) auffrischen. Wir haben sehr viele Fotos gemacht, (29) als wir bei Dir zu Besuch waren. Kaum zu glauben, dass inzwischen schon drei Jahre vergangen sind. Es ist in dieser Zeit viel geschehen; aber lass Dich überraschen...\nWir wünschen Dir eine gute Reise und freuen uns auf Deinen Besuch.\nViele Grüße\nKarl und Monika",
+            "questions": {
+                "21": { "optionA": "ganz", "optionB": "noch", "optionC": "zwar", "correctAnswer": "C" },
+                "22": { "optionA": "jedoch", "optionB": "obwohl", "optionC": "trotzdem", "correctAnswer": "C" },
+                "23": { "optionA": "anschauen", "optionB": "überschauen", "optionC": "vorschauen", "correctAnswer": "A" },
+                "24": { "optionA": "konnten", "optionB": "sollten", "optionC": "wollten", "correctAnswer": "C" },
+                "25": { "optionA": "ankommen wirst", "optionB": "anzukommen wirst", "optionC": "wirst ankommen", "correctAnswer": "C" },
+                "26": { "optionA": "falls", "optionB": "für den fall", "optionC": "im fall", "correctAnswer": "A" },
+                "27": { "optionA": "neulich", "optionB": "seitdem", "optionC": "vormals", "correctAnswer": "A" },
+                "28": { "optionA": "auffrischen", "optionB": "aufholen", "optionC": "aufsparen", "correctAnswer": "A" },
+                "29": { "optionA": "als", "optionB": "wann", "optionC": "wo", "correctAnswer": "A" },
+                "30": { "optionA": "geh", "optionB": "komm", "optionC": "lass", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 21,
+            "title": "Liebe Lara: Ein Brief mit Neuigkeiten",
+            "paragraph": "Liebe Lara,\nbitte verzeih mir, dass ich erst jetzt auf (21) Brief antworte. Ich hatte in den letzten\nWochen praktisch keine freie Minute und kam einfach nicht dazu, dir zu schreiben. Jetzt aber\ntue ich es, (22) du wirklich tolle Neuigkeiten mitzuteilen hast.\nSchon immer hast du von großen Abenteuern und Reisen in die Ferne geträumt. Ich weiß\n(23) gut, wie wir uns als Gymnasiasten fremde Länder ausgemalt haben. Nun verschlägt\nes dich und deine Familie also nach Dubai - und du sagst unserem Land für einige Zeit Adieu.\nIch weiß, dass mit dieser Versetzung für dich ein Traum in Erfüllung geht. (24) deinen\nNeubeginn wünschen Peter und ich dir alles Gute. Wir freuen uns auch sehr, dass ihr alle\ngesund und munter seid und hoffen, dass das so bleibt. Bei uns geht mehr oder weniger alles\nseinen gewohnten Gang. Robert gefällt es gut auf seiner (25) Stelle. Er muss sich einfach noch\neinarbeiten. Lorenz ist jetzt 15. Du weißt (26), was das heißt. Er hält sich für den Größten\nund macht uns viele Schwierigkeiten. Aber irgendwann geht auch das vorüber. Sandra ist\njetzt auch schon in der dritten Klasse und bringt gute Noten nach Hause. (27) sind wir\nnatürlich stolz. Es (28) schön, wenn wir uns vor deiner Abreise noch einmal treffen würden.\nVielleicht findet ihr (29) der Umzugsvorbereitungen noch Zeit. Wie wäre es mit einem\ngemeinsamen Sonntagsbrunch in unserem Garten? Bitte melde dich doch, damit wir etwas\nabmachen (30).",
+            "questions": {
+                "21": { "optionA": "dein", "optionB": "deine", "optionC": "deinen", "correctAnswer": "C" },
+                "22": { "optionA": "denn", "optionB": "obwohl", "optionC": "weil", "correctAnswer": "A" },
+                "23": { "optionA": "noch", "optionB": "schon", "optionC": "weiterhin", "correctAnswer": "B" },
+                "24": { "optionA": "für", "optionB": "vor", "optionC": "zu", "correctAnswer": "C" },
+                "25": { "optionA": "neue", "optionB": "neuen", "optionC": "neuer", "correctAnswer": "B" },
+                "26": { "optionA": "bloß", "optionB": "ja", "optionC": "mal", "correctAnswer": "C" },
+                "27": { "optionA": "damit", "optionB": "darauf", "optionC": "darüber", "correctAnswer": "C" },
+                "28": { "optionA": "ist", "optionB": "wäre", "optionC": "würde", "correctAnswer": "B" },
+                "29": { "optionA": "aufgrund", "optionB": "trotz", "optionC": "wegen", "correctAnswer": "C" },
+                "30": { "optionA": "können", "optionB": "könnten", "optionC": "konnten", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 22,
+            "title": "Liebe Lina, lieber Florian: Einladung zum Besuch",
+            "paragraph": "Liebe Lina, lieber Florian,\nnun sind wir schon einige Monate in unserer neuen Wohnung, und ihr habt uns noch immer\nnicht besucht. Ihr (21) doch endlich unser neues Heim und unsere kleine Stadt kennenlernen.\nDeshalb möchten wir euch (22) das verlängerte Wochenende Anfang Juni einladen. Wenn ihr\nam Donnerstagabend anreist, haben wir drei ganze Tage zur Verfügung. Wohnen könnt ihr\nnatürlich (23) bei uns. Emma fährt im Juni in Urlaub, und sie überlässt euch gern ihr Zimmer.\nDie Stadt Steyr hat (24) zu bieten. Wir können eine Führung durch die historische Altstadt\nmachen, die romantischen Innenhöfe besichtigen und auf (25) Turm der Stadtpfarrkirche\nsteigen. Da geht es über 228 Stufen 60 Meter hinauf. Bei einem längeren Rundgang (26) auch\ndie wunderbare Schlossbibliothek und das Tapetenzimmer zu besichtigen. Besonders\ninteressant ist die Runde durch den Wehrgraben, (27) man an den alten Bauten den Wandel\nder Industrie nachvollziehen kann, (28) erfährt man alles über die Eisenindustrie, die den\nReichtum der Stadt begründet hat.\nAußerdem finden an (29) Wochenende die jährlichen Literaturtage Stadt. Bei dieser\nVeranstaltung präsentieren zeitgenössische Autorinnen und Autoren ihre Neuerscheinungen.\nDie Lesungen finden zum Großteil in den prächtigen Arkadenhöfen statt. Die Stimmung dort\nist wirklich eine ganz besondere. Lina, das wäre doch was für dich, oder? Auch die Umgebung\nkann (30) sehen lassen. Praktisch vor den Toren der Stadt beginnt der Nationalpark\nKalkalpen. Dort kann man wunderbar wandern und Rad fahren. Ihr könnt in der Stadt auch\nRäder ausleihen. Wir hoffen sehr, dass ihr noch keine Pläne für das Wochenende habt und zu\nuns kommen könnt. Viele liebe Grüße und hoffentlich bis bald!",
+            "questions": {
+                "21": { "optionA": "dürft", "optionB": "könnt", "optionC": "sollt", "correctAnswer": "B" },
+                "22": { "optionA": "an", "optionB": "für", "optionC": "in", "correctAnswer": "A" },
+                "23": { "optionA": "bei", "optionB": "unter", "optionC": "zu", "correctAnswer": "A" },
+                "24": { "optionA": "einige", "optionB": "einigen", "optionC": "einiges", "correctAnswer": "A" },
+                "25": { "optionA": "dem", "optionB": "den", "optionC": "der", "correctAnswer": "B" },
+                "26": { "optionA": "ist", "optionB": "sind", "optionC": "waren", "correctAnswer": "B" },
+                "27": { "optionA": "wann", "optionB": "wie", "optionC": "wo", "correctAnswer": "B" },
+                "28": { "optionA": "dabei", "optionB": "daneben", "optionC": "darin", "correctAnswer": "A" },
+                "29": { "optionA": "dies", "optionB": "diesem", "optionC": "dieses", "correctAnswer": "B" },
+                "30": { "optionA": "man", "optionB": "sich", "optionC": "Sie", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 23,
+            "title": "Liebe Vanessa: Urlaubserinnerungen aus dem Allgäu",
+            "paragraph": "Liebe Vanessa,\ndanke für deinen Brief, (21) ich mich total gefreut habe. Du fragst dich bestimmt, warum\ndu schon drei Wochen (22) von mir gehört hast, oder? Ich war mit meiner Gastfamilie in\nUrlaub. Vierzehn Tage im Allgäu - mit den Kindern Stefan, Anja und Karina. Du weißt (23)\nselbst, wie anstrengend es ist, wenn man ständig drei kleine Kinder um sich hat, die pausenlos\nunterhalten werden möchten. (24) ist es übrigens in deiner Au-pair-Familie mit der\nkleinen Dorothea? Das Allgäu liegt in Süddeutschland am Fuß (25) Alpen. Wir sind fast jeden\nTag gewandert, immer bergauf und bergab. Den Kindern und mir haben ständig die Füße weh\n(26), doch meine Gasteltern, Herr und Frau Zimmer, sind einfach immer\nweitergelaufen. Die Deutschen lieben es nämlich, in der Natur spazieren zu gehen, bis sie vor\nErschöpfung (27). Unterwegs haben wir manchmal an einer sogenannten \"Wassertretstelle\"\nRast gemacht. Das sind kleine Wasserbecken, die oft mitten im Wald liegen. Durch das\nBecken fließt ein Bach mit eiskaltem Wasser, das direkt von den Bergen kommt. Stell (28)\nvor, alle Wanderer ziehen ihre Schuhe und Strümpfe aus und laufen durch dieses Becken. Als\nich meinen Fuß in dieses kalte Wasser getaucht hatte, dachte ich, dass ich gleich sterben muss.\nAm Wochenende haben wir alle Minigolf gespielt. Dabei muss ein Golfball mit einem Schläger\nin ein etwa zehn Meter entferntes Loch geschlagen werden. Aber vor dem Loch gibt es (29)\nMenge Hindernisse: Gräben, kleine Hügel, Tunnel. Der Spieler, dessen Ball mit den wenigsten\nSchlägen im Loch ankommt, hat gewonnen. Die Kinder wollten gar nicht mehr (30)\naufhören. Jetzt muss ich aber Schluss machen, die Kinder warten auf ihr Abendessen, denn\ndie Zimmers sind heute nicht da: Sie wandern mal wieder.",
+            "questions": {
+                "21": { "optionA": "an den", "optionB": "auf dem", "optionC": "über den", "correctAnswer": "A" },
+                "22": { "optionA": "nichts mehr", "optionB": "noch nicht", "optionC": "keines", "correctAnswer": "B" },
+                "23": { "optionA": "doch", "optionB": "eben", "optionC": "überhaupt", "correctAnswer": "A" },
+                "24": { "optionA": "wann", "optionB": "was", "optionC": "wie", "correctAnswer": "C" },
+                "25": { "optionA": "der", "optionB": "die", "optionC": "von", "correctAnswer": "A" },
+                "26": { "optionA": "gelaufen", "optionB": "getan", "optionC": "geworden", "correctAnswer": "A" },
+                "27": { "optionA": "durchfallen", "optionB": "umfallen", "optionC": "wegfallen", "correctAnswer": "B" },
+                "28": { "optionA": "dich", "optionB": "dir", "optionC": "mal", "correctAnswer": "A" },
+                "29": { "optionA": "alle", "optionB": "ganze", "optionC": "jede", "correctAnswer": "A" },
+                "30": { "optionA": "dabei", "optionB": "damit", "optionC": "davon", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 24,
+            "title": "Liebe Maria, lieber Timur: Hochzeitsfest-Einladung",
+            "paragraph": "Liebe Maria, lieber Timur,\nherzlich Dank für die Einladung zu eurem Hochzeitsfest. Nachdem wir gestern aus dem\nUrlaub zurückgekommen (21) haben wir euren Brief und die Einladungskarte im Briefkasten\nentdeckt. (22) gibt es nicht viel zu überlegen. Natürlich kommen wir sehr gern! Wir freuen uns\nsehr (23) euch, dass ihr nun endlich diesen Schritt wagt. Es ist eine geniale Idee (24) in der\nTürkei (oder in Österreich) zu feiern. So können alle Freunde und (25) dabei sein. Wir hoffen dass\nwir einige (26) alte Freunde wiedersehen werden.\nIhr habt geschrieben, dass Timurs Eltern und seine Schwestern auch in Österreich sein\nwerden. Endlich lernen wir auch Timurs Familie kennen und wie schön, dass ihr in Marias\nHeimatdorf im Mühlviertel feiert! Wir erinnern uns noch oft an die langen Partynächte, die\nwir dort (27) als Jugendliche gemeinsam verbracht haben. Nun überlegen wir (28) ob wir nicht gleich\nein Hotelzimmer für einige Tage buchen sollten. Ihr habt ja sicher mit den Vorbereitungen alle\nHände voll zu (29). Dann können wir am Freitag wandern gehen. Am Samstag ist dann euer\nFest und am Sonntag (30) wir die Gelegenheit vor der Abreise noch gemütlich zusammen zu\nfrühstücken. In welchem Hotel habt ihr eure Verwandten untergebracht? Seid ihr auch in\neinem Hotel, oder übernachtet ihr bei deinen Eltern, Maria? Nun, das können wir alles noch\nspäter besprechen.\nVorerst freuen wir uns einfach nur auf euch und euer Fest.",
+            "questions": {
+                "21": { "optionA": "seine", "optionB": "sind", "optionC": "waren", "correctAnswer": "C" },
+                "22": { "optionA": "da", "optionB": "das", "optionC": "dass", "correctAnswer": "C" },
+                "23": { "optionA": "an", "optionB": "auf", "optionC": "für", "correctAnswer": "B" },
+                "24": { "optionA": "je-desto", "optionB": "sowohl-als auch", "optionC": "weder-noch", "correctAnswer": "C" },
+                "25": { "optionA": "verwandte", "optionB": "verwandten", "optionC": "verwandter", "correctAnswer": "A" },
+                "26": { "optionA": "unsere", "optionB": "unseren", "optionC": "unser", "correctAnswer": "B" },
+                "27": { "optionA": "als", "optionB": "für", "optionC": "wie", "correctAnswer": "C" },
+                "28": { "optionA": "dass", "optionB": "falls", "optionC": "ob", "correctAnswer": "C" },
+                "29": { "optionA": "bereiten", "optionB": "machen", "optionC": "tun", "correctAnswer": "A" },
+                "30": { "optionA": "hätten", "optionB": "könnten", "optionC": "sollten", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 25,
+            "title": "Lieber Ramon: Mein erster Skikurs",
+            "paragraph": "Lieber Ramon,\nich muss dir unbedingt etwas erzählen: Ich bin heute das erste Mal in meinem Leben Ski\ngefahren, (21) ich mir das bisher nie zugetraut hatte. Meine Freundin Lisa hat mich\neingeladen, einige Tage mit ihr und ihren Eltern in den Bergen zu verbringen. Und bevor ich\nankam, (22) sie schon einen individuellen Skikurs für mich gebucht! Du kannst dir vorstellen,\nwie mich das überrascht hat! Ich (23) es mir schon anders überlegen, aber Lisa wollte\nnichts (24) hören. Heute Morgen ging es dann los. (25) war ich ziemlich aufgeregt, (25) habe\nich mich auch unheimlich gefreut. Mit der Skilehrerin habe ich mich gleich gut verstanden.\nSie hat mich abgeholt und mir (26) geholfen, im Sportgeschäft Schuhe, Skier, Stöcke und\neinen Helm für mich (27). Dann hat mir die Skilehrerin einige (28) Dinge erklärt. Ich war\nanfangs sehr unsicher, mit der Zeit ließ das aber nach. Die Kinder im Zwergerlkurs scheinen\n(29) Gegensatz zu mir überhaupt keine Angst zu haben. Das Schlimmste am ersten Tag war\nder Schlepplift. Erst habe ich den Lift einige Male verpasst, dann bin ich hingefallen.\nIrgendwie habe ich es dann doch noch geschafft. Und zum Schluss bin ich mit der Lehrerin\nsogar eine leichte Piste runtergefahren. Morgen habe ich wieder zwei Stunden. Ich habe jetzt\nschon Muskelkater und mir tut alles weh! Ich weiß gar nicht, (30) ich das schaffen soll. Ich\nwerde dich über meine Fortschritte auf dem Laufenden halten :)",
+            "questions": {
+                "21": { "optionA": "obwohl", "optionB": "trotz", "optionC": "während", "correctAnswer": "A" },
+                "22": { "optionA": "hat", "optionB": "hatte", "optionC": "hätte", "correctAnswer": "A" },
+                "23": { "optionA": "konnte", "optionB": "sollte", "optionC": "wollte", "correctAnswer": "C" },
+                "24": { "optionA": "dafür", "optionB": "damit", "optionC": "davon", "correctAnswer": "C" },
+                "25": { "optionA": "Einerseits...andererseits", "optionB": "weder...noch", "optionC": "zwar...aber", "correctAnswer": "C" },
+                "26": { "optionA": "dabei", "optionB": "davon", "optionC": "dazu", "correctAnswer": "A" },
+                "27": { "optionA": "aussuchen", "optionB": "ausgesucht", "optionC": "auszusuchen", "correctAnswer": "B" },
+                "28": { "optionA": "grundlegende", "optionB": "grundlegenden", "optionC": "grundlegender", "correctAnswer": "A" },
+                "29": { "optionA": "am", "optionB": "im", "optionC": "zum", "correctAnswer": "B" },
+                "30": { "optionA": "dass", "optionB": "ob", "optionC": "wie", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 26,
+            "title": "Lieber Thomas: Mein erster Skikurs - مستمر",
+            "paragraph": "Lieber Thomas,\nich muss dir unbedingt etwas erzählen: Ich bin heute das erste Mal in meinem Leben Ski\ngefahren, (21) ich mir das bisher nie zugetraut hatte. Meine Freundin Lisa hat mich\neingeladen, einige Tage mit ihr und ihren Eltern in den Bergen zu verbringen. Und bevor ich\nankam, (22) sie schon einen individuellen Skikurs für mich gebucht! Du kannst dir vorstellen,\nwie mich das überrascht hat! Ich (23) es mir schon anders überlegen, aber Lisa wollte nichts\n(24) hören. Heute Morgen ging es dann los. (25) war ich ziemlich aufgeregt, (26) habe\nich mich auch unheimlich gefreut. Mit der Skilehrerin habe ich mich gleich gut verstanden.\nSie hat mich abgeholt und mir (27) geholfen, im Sportgeschäft Schuhe, Skier, Stöcke und\neinen Helm für mich (28). Dann hat mir die Skilehrerin einige (29) Dinge erklärt. Ich war\nanfangs sehr unsicher, mit der Zeit ließ das aber nach. Die Kinder im Zwergerlkurs scheinen\n(30) Gegensatz zu mir überhaupt keine Angst zu haben. Das Schlimmste am ersten Tag war\nder Schlepplift. Erst habe ich den Lift einige Male verpasst, dann bin ich hingefallen.\nIrgendwie habe ich es dann doch noch geschafft. Und zum Schluss bin ich mit der Lehrerin\nsogar eine leichte Piste runtergefahren. Morgen habe ich wieder zwei Stunden. Ich habe jetzt\nschon Muskelkater und mir tut alles weh! Ich weiß gar nicht, (31) ich das schaffen soll. Ich\nwerde dich über meine Fortschritte auf dem Laufenden halten :)",
+            "questions": {
+                "21": { "optionA": "obwohl", "optionB": "trotz", "optionC": "während", "correctAnswer": "A" },
+                "22": { "optionA": "hat", "optionB": "hatte", "optionC": "hätte", "correctAnswer": "A" },
+                "23": { "optionA": "konnte", "optionB": "sollte", "optionC": "wollte", "correctAnswer": "C" },
+                "24": { "optionA": "dafür", "optionB": "damit", "optionC": "davon", "correctAnswer": "C" },
+                "25": { "optionA": "Einerseits...andererseits", "optionB": "weder...noch", "optionC": "zwar...aber", "correctAnswer": "C" },
+                "26": { "optionA": "dabei", "optionB": "davon", "optionC": "dazu", "correctAnswer": "A" },
+                "27": { "optionA": "auszusuchen", "optionB": "aussuchen", "optionC": "aussuchen", "correctAnswer": "B" },
+                "28": { "optionA": "grundlegende", "optionB": "grundlegenden", "optionC": "grundlegender", "correctAnswer": "A" },
+                "29": { "optionA": "am", "optionB": "im", "optionC": "zum", "correctAnswer": "B" },
+                "30": { "optionA": "dass", "optionB": "ob", "optionC": "wie", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 27,
+            "title": "Hallo Judith, Lina, Nurgül, Bea: Pensionierungsgeschenk",
+            "paragraph": "Hallo Judith, oder Lina, oder liebe Nurgül, oder lieber Bea.\nwir haben uns ja lange nicht gesehen. Ich hoffe, du hattest einen richtig schönen Urlaub in\nKroatien! Danke auch für deine Urlaubskarte! Die hat mich echt neidisch gemacht; ich habe ja\nerst im September Urlaub.\n(21) rufst du heute schon deine E-Mails ab und liest diese Nachricht von mir!\nWir, als das gesamte Team, möchten (22) unserer Kollegin Elena zu ihrer Pensionierung\ngemeinsam etwas zum Abschied schenken. Ihre Abschiedsfeier ist ja (23) übermorgen\nabends im großen Konferenzraum unserer Firma. Bist du (24) einverstanden, dass wir ihr\nzusammen einen Gutschein und einen Blumenstrauß schenken? Jeder zahlt etwas 10 € dazu. Ich\ndenke, das ist angemessen. Du erinnerst dich: (25) wir das letzte Mal gesammelt hatten,\ngab es Beschwerden wegen der Höhe des Betrags. Aber möglicherweise hast du eine bessere\nIdee.\nMichael und ich gehen dann nachmittags (26) in der Stadt einkaufen. Die\nGlückwunschkarte für Elena könntest du dann übermorgen noch (27) vor der Feier\nunterschreiben. Wir treffen uns ja alle vorher und gehen gemeinsam hin.\nIn der Firma war heute nicht viel los. Aber in den letzten 14 Tagen hatten viele Kollegen Urlaub,\n(28) ich sehr viel zu tun hatte. Es gibt übrigens auch (29) neue Entwicklungen in der\nFirma, von denen ich dir dann übermorgen erzählen kann.\nWahrscheinlich bist du nach der langen Fahrt sehr müde. Schlaf dich morgen gut aus; wir sehen\nuns dann auf Elenas Feier! Ich wünsche dir heute einen (30) Tag...",
+            "questions": {
+                "21": { "optionA": "zuversichtlich", "optionB": "möglichst", "optionC": "hoffentlich", "correctAnswer": "C" },
+                "22": { "optionA": "vermutlich", "optionB": "nämlich", "optionC": "bestimmt", "correctAnswer": "B" },
+                "23": { "optionA": "schon", "optionB": "fast", "optionC": "beinahe", "correctAnswer": "A" },
+                "24": { "optionA": "damit", "optionB": "dafür", "optionC": "dadurch", "correctAnswer": "B" },
+                "25": { "optionA": "wenn", "optionB": "wann", "optionC": "als", "correctAnswer": "C" },
+                "26": { "optionA": "zueinander", "optionB": "voneinander", "optionC": "miteinander", "correctAnswer": "C" },
+                "27": { "optionA": "vor kurzem", "optionB": "kürzlich", "optionC": "kurz", "correctAnswer": "B" },
+                "28": { "optionA": "weshalb", "optionB": "insofern", "optionC": "deshalb", "correctAnswer": "C" },
+                "29": { "optionA": "vollkommen", "optionB": "sämtlich", "optionC": "erschöpfend", "correctAnswer": "B" },
+                "30": { "optionA": "pessenden", "optionB": "bequemen", "optionC": "angenehmen", "correctAnswer": "C" }
+            }
+        },
+        {
+            "Page": 28,
+            "title": "Liebe Lina: Jobsuche",
+            "paragraph": "Liebe Lina\nSuche (21)\n(22) Stellenbörsen\nIch denke noch (23)\nIn einer Verlag zu arbeiten (24) damals mein Traum\n…, aber trotzdem (25)\n(26) ich zahlreiche Bewerbungen schreiben\n(27) für eine Pressereferentin gesucht\nVon (28) Chancen\nEinladen (29) persönlichen Gespräch\n(30) mich stört",
+            "questions": {
+                "21": { "optionA": "nach", "optionB": "zu", "optionC": "auf", "correctAnswer": "A" },
+                "22": { "optionA": "verschiedene", "optionB": "verschiedener", "optionC": "verschiedenen", "correctAnswer": "A" },
+                "23": { "optionA": "daran", "optionB": "darauf", "optionC": "dazu", "correctAnswer": "A" },
+                "24": { "optionA": "war", "optionB": "ist", "optionC": "sei", "correctAnswer": "A" },
+                "25": { "optionA": "zwar", "optionB": "obwohl", "optionC": "trotzdem", "correctAnswer": "C" },
+                "26": { "optionA": "musste", "optionB": "sollte", "optionC": "konnte", "correctAnswer": "A" },
+                "27": { "optionA": "wurde", "optionB": "war", "optionC": "sei", "correctAnswer": "A" },
+                "28": { "optionA": "keinen", "optionB": "keine", "optionC": "keiner", "correctAnswer": "B" },
+                "29": { "optionA": "zu", "optionB": "nach", "optionC": "auf", "correctAnswer": "A" },
+                "30": { "optionA": "was", "optionB": "dass", "optionC": "was für", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 29,
+            "title": "Liebe Agnieszka: Prüfungsvorbereitungen",
+            "paragraph": "Liebe Agnieszka,\njezt ist es schon bald ein halbes Jahr (21), dass ich dir das letzte Mal geschrieben habe.\nBitte denke jetzt nicht, dass ich dich vergessen habe. Aber, wie du ja schon weißt, stehe ich vor\nder Abschlussprüfung in Deutsch und das bedeutet jede Menge Arbeit und Stress.\nStell dir vor, ausgerechnet jetzt, nur zwei Wochen vor der Prüfung, ist unsere Lehrerin, Frau\nReuter, (22). Sie liegt sogar im Krankenhaus und kommt erst wieder zurück, (23)\nunsere Prüfung schon längst vorbei ist. Ihre Vertretung, Frau Eichhorn, ist (24) sehr nett,\n(25) sie hat gerade erst mit dem Unterrichten angefangen und noch keine Erfahrung. Das\nmacht uns alle ein bisschen unsicher. Aber in zwei Wochen ist hoffentlich alles geschafft. Und\ndann (26) ich alle Bücher und Hefte in die Ecke legen und erst einmal ein paar Tage gar\nnichts tun. (27) freue ich mich schon riesig. Wenn du Zeit und Lust hast, kannst du mich\ndoch besuchen kommen und wir können zusammen etwas unternehmen. Wir wollten doch schon\nlange Bad Homburg besuchen und im Taunus wandern. Was hältst du (28)?\nWas macht deine Au-pair-Familie? Musst du immer noch so viel Hausarbeit machen? Hören\ndeine Kinder auf dich oder tanzen sie (29) noch immer auf der Nase herum, wie du in\ndeinem letzten Brief geschrieben hast? Es ist bestimmt nicht so leicht, einen zweijährigen Jungen\nund ein vierjähriges Mädchen den ganzen Tag (30). Aber ich kenne dich: Du hast gute\nIdeen und bestimmt hast du schon einen Weg gefunden, (31) du mit den Kindern\nzurechtkommst.",
+            "questions": {
+                "21": { "optionA": "her", "optionB": "hin", "optionC": "vorbei", "correctAnswer": "C" },
+                "22": { "optionA": "erkrankt", "optionB": "gekränkt", "optionC": "kränklich", "correctAnswer": "A" },
+                "23": { "optionA": "als", "optionB": "da", "optionC": "wenn", "correctAnswer": "A" },
+                "24": { "optionA": "nicht nur...sondern", "optionB": "teils...teils", "optionC": "zwar...aber", "correctAnswer": "C" },
+                "25": { "optionA": "werde", "optionB": "wollte", "optionC": "würde", "correctAnswer": "A" },
+                "26": { "optionA": "dass", "optionB": "falls", "optionC": "ob", "correctAnswer": "C" },
+                "27": { "optionA": "bereiten", "optionB": "machen", "optionC": "tun", "correctAnswer": "A" },
+                "28": { "optionA": "darüber", "optionB": "dafür", "optionC": "da", "correctAnswer": "A" },
+                "29": { "optionA": "dich", "optionB": "dir", "optionC": "sich", "correctAnswer": "C" },
+                "30": { "optionA": "beschäftigen lassen", "optionB": "beschäftigt zu sein", "optionC": "zu beschäftigen", "correctAnswer": "A" },
+                "31": { "optionA": "weshalb", "optionB": "wie", "optionC": "wo", "correctAnswer": "B" }
+            }
+        },
+        {
+            "Page": 30,
+            "title": "Betreff: Grüße aus Berlin",
+            "paragraph": "Hallo Leon,\nvielen Dank für deine letzte Mail aus Peking! Du arbeitest ja jetzt schon seit einem halben Jahr in\nChina - unglaublich, wie schnell die Zeit vergeht.\nLeider hatte ich in den letzten drei Wochen keine Zeit, dir zu antworten, weil ich viel zu tun hatte.\nAber jetzt berichte ich dir, (22) alles los war.\nAlso, im Büro haben wir derzeit viel Stress, (23) drei Kollegen im Urlaub sind und eine\nweitere Kollegin seit zwei Wochen krank ist. Jetzt müssen wir mit fünf Leuten die Arbeit\nerledigen, die sonst neun Leute machen. Ich weiß wirklich nicht, wer diese Urlaubsplanung\ngemacht hat. Hoffentlich (24) das in Zukunft besser organisiert.\nAbends waren Carmen und ich dann ein paarmal aus. Wir waren zum Beispiel bei einem Konzert\nvon \"Belasco\". Kennst du die Band? Eigentlich war ich an dem Abend ganz schön kaputt und\n(25) am liebsten zuhause geblieben, aber ich hatte Carmen die Karten zum Geburtstag\ngeschenkt. Da (26) ich ja schlecht auf dem Sofa sitzen bleiben! Im Nachhinein muss ich\nsagen: Ein Glück, dass wir zu dem Konzert gegangen sind, (27) es war einfach nur super!\nAn den letzten beiden Wochenenden hatten wir dann auch noch Familienfeiern: Erst hatte meine\nältere Schwester Geburtstag und hat groß gefeiert, dann hat ein Cousin geheiratet und uns\neingeladen, (28) war zwar schön, aber auch anstrengend. Ich bin froh, dass wir für die\nkommenden Wochenenden (29) keine Pläne haben.\nDas war's erst mal von mir. Melde dich doch wieder, ich freue mich (30) deine nächste\nE-Mail!",
+            "questions": {
+                "21": { "optionA": "ab", "optionB": "aus", "optionC": "von", "correctAnswer": "B" },
+                "22": { "optionA": "wann", "optionB": "was", "optionC": "wie", "correctAnswer": "C" },
+                "23": { "optionA": "da", "optionB": "indem", "optionC": "obwohl", "correctAnswer": "A" },
+                "24": { "optionA": "ist", "optionB": "wird", "optionC": "würde", "correctAnswer": "B" },
+                "25": { "optionA": "bin", "optionB": "war", "optionC": "wäre", "correctAnswer": "C" },
+                "26": { "optionA": "konnte", "optionB": "musste", "optionC": "sollte", "correctAnswer": "B" },
+                "27": { "optionA": "aber", "optionB": "denn", "optionC": "sondern", "correctAnswer": "A" },
+                "28": { "optionA": "Beide", "optionB": "Beiden", "optionC": "Beides", "correctAnswer": "A" },
+                "29": { "optionA": "erst", "optionB": "noch", "optionC": "schon", "correctAnswer": "C" },
+                "30": { "optionA": "auf", "optionB": "für", "optionC": "über", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 31,
+            "title": "Liebe Karin: München-Besuch",
+            "paragraph": "Liebe Karin,\nvielen Dank für deine letzte E-Mail! Ich habe mich wirklich sehr gefreut zu lesen, dass es dir in\nMünchen so gut gefällt. Endlich kannst du auch das studieren, (21) du möchtest – das ist\ndoch super! Wie ist es (22) so an der Uni dort? Hast du schon neue Leute kennengelernt?\nUnd wie sieht deine Woche aus? Hast du viele Veranstaltungen? Musst du zuhause auch\n(23) viel lernen? Jobbst du eigentlich noch nebenbei?\nDu siehst, ich habe jede Menge Fragen an dich!\nDeshalb würde ich deine Einladung wirklich gerne (24) annehmen und dich demnächst in München\nbesuchen kommen. Im Moment habe ich noch nicht so viel Zeit, weil ich mich viel (25)\nmit Jonas kümmern muss – er ist ja erst sechs Monate alt – und Thomas leider keinen Urlaub nehmen\nkann. Aber (26) er frei hat, komme ich mal für ein, zwei Tage zu dir. Ich bin ja so gespannt,\nwie du wohnst! In einer Wohngemeinschaft zu leben, ist bestimmt toll, (27) wenn es mal Streit\ngibt. Aber du hast ja geschrieben, dass deine beiden Mitbewohnerinnen sehr nett sind und ihr\neuch alle gut versteht. Das freut mich wirklich (28) für dich!\nBei mir gibt es gar nicht viel Neues. Wir hatten (29) mal überlegt, in eine größere\nWohnung zu ziehen, aber die Mieten sind ja hier in Köln recht hoch und wir (30) uns nicht\nviel zumuten – also bleiben wir lieber erst mal in dieser Wohnung. Umziehen kann man ja auch\nspäter noch.",
+            "questions": {
+                "21": { "optionA": "das", "optionB": "was", "optionC": "welches", "correctAnswer": "A" },
+                "22": { "optionA": "denn", "optionB": "obwohl", "optionC": "weil", "correctAnswer": "A" },
+                "23": { "optionA": "dazu", "optionB": "noch", "optionC": "sogar", "correctAnswer": "B" },
+                "24": { "optionA": "annehmen", "optionB": "annehmen", "optionC": "nehmen", "correctAnswer": "A" },
+                "25": { "optionA": "für", "optionB": "über", "optionC": "um", "correctAnswer": "C" },
+                "26": { "optionA": "bevor", "optionB": "bis", "optionC": "sobald", "correctAnswer": "C" },
+                "27": { "optionA": "wenn", "optionB": "auch wenn", "optionC": "wenn auch", "correctAnswer": "B" },
+                "28": { "optionA": "an", "optionB": "für", "optionC": "über", "correctAnswer": "C" },
+                "29": { "optionA": "demnächst", "optionB": "neulich", "optionC": "noch nicht", "correctAnswer": "B" },
+                "30": { "optionA": "müssen", "optionB": "sollen", "optionC": "wollen", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 32,
+            "title": "Dresden-Reise: Vorabinformationen",
+            "paragraph": "Sehr geehrte Frau Melchior,\nvielen Dank für Ihr Schreiben von letztem Dienstag, (21) Sie um nähere Informationen zu\nder geplanten Dresden-Reise im kommenden Juni gebeten haben.\n(22) unser Programmheft erst in zwei Wochen fertig ist, gebe ich Ihnen schon einmal ein paar Vorabinformationen.\nDie Reise findet in der Zeit vom 3. bis 8. Juni statt. Die Anreise erfolgt mit der Bahn. (23)\nsind Sie im Hotel Corona, das (24) in der Stadtmitte befindet. Ihnen stehen Einzel- oder\nDoppelzimmer mit Bad zur Verfügung. Der Reisepreis beträgt 650 € im Doppel- sowie 950 € im\nEinzelzimmer, jeweils mit Frühstück.\nDas eigentliche Programm der Reise startet am 4. Juni mit einer Stadtrundfahrt, in deren Verlauf\nIhnen alle wichtigen Sehenswürdigkeiten (25) gezeigt werden. Am Nachmittag werden Sie den\nZwinger mit seiner umfangreichen Sammlung an Bildern, Porzellan und Skulpturen besuchen. Für\nden Abend ist ein Besuch (26) der Semper-Oper geplant, wo am Abend Mozarts Zauberflöte\naufgeführt wird.\nAm 5. Juni machen Sie einen Ausflug zu dem vor den Toren der Stadt liegenden barocken\nSchloss Pillnitz, dessen Park (27) für seine exotischen Pflanzen berühmt ist. Während der\nhalbstündigen Busfahrt fahren Sie über die berühmte Elbbrücke Blaues Wunder. Am 6. Juni geht\nes in das Residenzschloss mit dem Grünen Gewölbe. Darin befinden sich über 3000 Werke der\nGoldschmiede- und Juwelierkunst. Am Abend geht es in die wiederaufgebaute Frauenkirche.\nHier erwartet Sie ein Konzert mit Musik von Johann Sebastian Bach. Der 7. Juni (28) ist zu\nIhrer freien Verfügung. Vielleicht möchten Sie einen Einkaufsbummel machen oder an einer Fahrt\nin die nahe gelegene Sächsische Schweiz teilnehmen.\nIch hoffe, dass Ihnen diese Vorabinformationen einen Überblick über die geplante Reise (30) verschaffen.",
+            "questions": {
+                "21": { "optionA": "für das", "optionB": "in dem", "optionC": "von dem", "correctAnswer": "B" },
+                "22": { "optionA": "Da", "optionB": "Wann", "optionC": "Wenn", "correctAnswer": "A" },
+                "23": { "optionA": "Untergebracht", "optionB": "Verbracht", "optionC": "Zugebracht", "correctAnswer": "A" },
+                "24": { "optionA": "man", "optionB": "sich", "optionC": "Sie", "correctAnswer": "C" },
+                "25": { "optionA": "geschaut", "optionB": "gesehen", "optionC": "gezeigt", "correctAnswer": "C" },
+                "26": { "optionA": "der", "optionB": "die", "optionC": "von", "correctAnswer": "B" },
+                "27": { "optionA": "für", "optionB": "mit", "optionC": "wegen", "correctAnswer": "A" },
+                "28": { "optionA": "fällt", "optionB": "liegt", "optionC": "steht", "correctAnswer": "C" },
+                "29": { "optionA": "beteiligen", "optionB": "fahren", "optionC": "teilnehmen", "correctAnswer": "B" },
+                "30": { "optionA": "verschaffen", "optionB": "vermachen", "optionC": "schaffen", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 33,
+            "title": "Sprachurlaub: Kursinformationen",
+            "paragraph": "Sehr geehrte Frau Goronska,\nvielen Dank für Ihre Anfrage vom 12. September bezüglich unserer Sprachurlaube in\nDeutschland und Österreich. Unsere Organisation unterhält insgesamt zehn Schulen, acht (21)\nin Deutschland und zwei in Österreich, an (22) Sie ausnahmslos sowohl Ihr\nDeutsch verbessern als auch an einem anspruchsvollen Kultur- und Freizeitprogramm teilnehmen\nkönnen.\nDer Sprachunterricht findet in der Regel (23) fünf Tagen pro Woche statt, jeweils in der\nZeit von 9 bis 13 und von 15 bis 17 Uhr. (24) ist kein Nachmittagsunterricht. Das\nKursangebot umfasst alle Niveaustufen. Die Mindestdauer für einen Kurs beträgt zwei Wochen,\nSie können jedoch auch vier, sechs oder acht Wochen bleiben. Zu Beginn (25) wird ein\nEinstufungstest durchgeführt, mit (26) Hilfe wir herausfinden, welcher Kurs für Sie der\ngeeignete ist. Nach Abschluss Ihres Aufenthaltes erhalten Sie eine Teilnahmebescheinigung.\nSelbstverständlich können Sie bei uns Tests auf allen Niveaustufen von A1 bis C1 ablegen und\nerhalten, (27) Sie den Test bestehen, ein international anerkanntes Zertifikat.\nHinsichtlich unseres Kultur- und Freizeitprogramms gibt es verschiedene Wahlmöglichkeiten, die\n(28) vor Ort angeboten werden. Dazu zählen Ausflüge in die nähere Umgebung,\nMuseums- und Theaterbesuche und vieles mehr.\nWas die Übernachtung am Kursort angeht, können Sie zwischen einer Unterbringung in einer\nGastfamilie und der Unterkunft in einfachen Hotels wählen. Im Unterkunftspreis (29)\njeweils Halbpension eingeschlossen, das heißt Frühstück und Mittagessen. Bitte teilen Sie uns\nmit, wenn Sie bestimmte Lebensmittel ausschließen, z. B. vegetarisch essen oder (30).\nAlles Weitere entnehmen Sie bitte dem beiliegenden Katalog. Bei weiteren Fragen sind wir gerne\nfür Sie da.",
+            "questions": {
+                "21": { "optionA": "dabei", "optionB": "daraus", "optionC": "davon", "correctAnswer": "A" },
+                "22": { "optionA": "denen", "optionB": "die", "optionC": "den", "correctAnswer": "C" },
+                "23": { "optionA": "an", "optionB": "durch", "optionC": "in", "correctAnswer": "C" },
+                "24": { "optionA": "Jeder Mittwoch", "optionB": "Mittwochs", "optionC": "Zum Mittwoch", "correctAnswer": "B" },
+                "25": { "optionA": "jedem Kurs", "optionB": "jeden Kurs", "optionC": "jedes Kurses", "correctAnswer": "B" },
+                "26": { "optionA": "der", "optionB": "deren", "optionC": "dessen", "correctAnswer": "A" },
+                "27": { "optionA": "obwohl", "optionB": "wenn", "optionC": "wobei", "correctAnswer": "C" },
+                "28": { "optionA": "Ihnen", "optionB": "Sie", "optionC": "Euch", "correctAnswer": "A" },
+                "29": { "optionA": "hat", "optionB": "ist", "optionC": "wird", "correctAnswer": "A" },
+                "30": { "optionA": "eine Diät halten müssen", "optionB": "müssen eine Diät halten", "optionC": "müssen halten eine Diät", "correctAnswer": "A" }
+            }
+        },
+        {
+            "Page": 34,
+            "title": "Studienreise nach Frankfurt: Informationen",
+            "paragraph": "Sehr geehrter Herr Martini,\nvielen Dank für Ihre Anfrage vom 16. Juni (21) der Studienreise Ihrer Schulklasse nach\nFrankfurt am Main im (22) Oktober.\nDie Unterkunft bei deutschen Gastfamilien ist prinzipiell möglich. Die Familien werden von uns\nsorgfältig (23) strengen Kriterien ausgewählt, die Sie in der beiliegenden\nInformationsbroschüre auf den Seiten 15 bis 17 finden. Pro Gastfamilie können ein oder zwei\nSchülerinnen bzw. Schüler untergebracht werden. Unsere Gastfamilien (24) Halbpension,\nd. h. in der Regel Frühstück und Abendessen, an. Alle Familien wohnen im näheren Umkreis der\nSchule, (25) der Weg von der Unterkunft zum Unterricht innerhalb von maximal 10\nMinuten zu Fuß zurückgelegt werden kann.\nZweimal pro Woche ist die Teilnahme am Schulunterricht Ihrer Partnerschule in Frankfurt, der\nHeinrich-Böll-Schule, in den Fächern Geografie, Kunst und Deutsch vorgesehen. Die\nUnterrichtssprache ist Deutsch. (26) Schülerinnen und Schülern der Partnerschule wird\ndas Freizeit- und Kulturprogramm durchgeführt.\nDazu gehört z. B. (27) der Gemäldegalerie \"Städel\", des Museums für Kunsthandwerk\nund des Deutschen Postmuseums. Auch ein Besuch beim Hessischen Rundfunk (28).\nJeweils dienstags und freitags werden Kulturabende veranstaltet, an denen die verschiedenen\nAspekte und Unterschiede der deutschen und der italienischen Kultur (29) werden sollen.\nWeitere Informationen finden Sie in der beiliegenden Broschüre. Wir hoffen, dass Sie und Ihre\nKlasse einen erlebnisreichen und unvergesslichen Aufenthalt in Frankfurt (30) haben werden. Bei\nweiteren Fragen setzen Sie sich bitte mit uns in Verbindung.",
+            "questions": {
+                "21": { "optionA": "an", "optionB": "von", "optionC": "zu", "correctAnswer": "A" },
+                "22": { "optionA": "ankommenden", "optionB": "gekommenen", "optionC": "kommenden", "correctAnswer": "C" },
+                "23": { "optionA": "aus", "optionB": "mit", "optionC": "nach", "correctAnswer": "A" },
+                "24": { "optionA": "bieten", "optionB": "fordern", "optionC": "nehmen", "correctAnswer": "A" },
+                "25": { "optionA": "so dass", "optionB": "weil", "optionC": "wenn", "correctAnswer": "A" },
+                "26": { "optionA": "Gemeinsam mit", "optionB": "Verbunden von", "optionC": "Zusammen neben", "correctAnswer": "A" },
+                "27": { "optionA": "die Ansicht", "optionB": "der Besuch", "optionC": "das Betrachten", "correctAnswer": "A" },
+                "28": { "optionA": "hat geplant", "optionB": "ist geplant", "optionC": "wird geplant haben", "correctAnswer": "B" },
+                "29": { "optionA": "besprochen", "optionB": "gesprochen", "optionC": "versprochen", "correctAnswer": "A" },
+                "30": { "optionA": "haben", "optionB": "hatten", "optionC": "hätten", "correctAnswer": "C" }
+            }
+        }
+    ]
+}

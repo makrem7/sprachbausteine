@@ -1,0 +1,100 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4; /* Soft background color */
+}
+
+/* Container for the content */
+.container {
+    max-width: 800px; /* Maximum width for content */
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Heading styles */
+h1 {
+    text-align: center; /* Center align headings */
+    color: #333; /* Dark gray for contrast */
+}
+
+/* List of quizzes */
+#quizList {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+}
+
+#quizList li {
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    margin: 10px 0; /* Space between items */
+}
+
+#quizList a {
+    display: block; /* Full width links */
+    padding: 15px; /* Padding around links */
+    text-decoration: none; /* Remove underline */
+    color: #007BFF; /* Link color */
+    font-size: 18px; /* Font size */
+    transition: background 0.3s, color 0.3s; /* Transition effect */
+}
+
+#quizList a:hover {
+    background: #007BFF; /* Blue background on hover */
+    color: white; /* White font color on hover */
+}
+
+/* Paragraph and form styling */
+#paragraph {
+    margin: 20px 0; /* Space around the paragraph */
+    line-height: 1.5; /* Improved readability */
+}
+
+select {
+    margin: 5px; /* Margin for select dropdowns */
+    width: auto; /* Automatic width */
+    display: inline; /* Inline to fit in the text */
+    font-size: inherit; /* Match font size of surrounding text */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners for dropdowns */
+    padding: 5px; /* Padding inside dropdowns */
+}
+
+/* Button styles */
+button {
+    width: 100%; /* Full-width buttons */
+    padding: 10px;
+    background-color: #28a745; /* Green background */
+    color: white; /* White text color */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background 0.3s; /* Smooth transition for hover effect */
+}
+
+button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+/* Score message styles */
+#score {
+    text-align: center; /* Center align score */
+    font-size: 20px; /* Larger font for score */
+    margin-top: 20px; /* Space above score */
+    color: #333; /* Dark gray color */
+}
+/*highlight correct answer*/
+.highlight-correct {
+    background-color: rgb(24, 255, 159); /* Background color for correct answers */
+    box-shadow: 0 0 10px rgb(24, 255, 159); /* green shadow effect */
+}
+.highlight-wrong {
+    background-color: rgb(255, 24, 24); /* Background color for correct answers */
+    box-shadow: 0 0 10px rgb(255, 24, 24); /* green shadow effect */
+    color: white;
+}
